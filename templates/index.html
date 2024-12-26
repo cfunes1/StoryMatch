@@ -1,0 +1,292 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Selection Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .question-container {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        
+        .question-meta {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+        
+        .category-tag {
+            display: inline-block;
+            padding: 4px 8px;
+            background-color: #e3f2fd;
+            border-radius: 4px;
+            margin-right: 10px;
+        }
+        
+        .story-count {
+            display: inline-block;
+            color: #666;
+        }
+        
+        .stories-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .story-button {
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            background-color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            text-align: left;
+            min-height: 100px;
+        }
+        
+        .story-button.selected {
+            background-color: #e3f2fd;
+            border-color: #2196f3;
+        }
+        
+        .result-icon {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            display: none;
+        }
+        
+        .result-icon.check {
+            color: #4caf50;
+        }
+        
+        .result-icon.x {
+            color: #f44336;
+        }
+        
+        .story-details {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #666;
+            display: none;
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+        }
+        
+        .story-details.visible {
+            display: block;
+        }
+        
+        .match-strength {
+            display: inline-block;
+            margin-top: 5px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background-color: #e8f5e9;
+            color: #2e7d32;
+        }
+        
+        .submit-button {
+            padding: 15px 30px;
+            font-size: 1.1em;
+            background-color: #2196f3;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 200px;
+        }
+        
+        .submit-button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            background-color: #f5f5f5;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="question-container">
+        <h2 id="question-text"></h2>
+        <div class="question-meta">
+            <span class="category-tag" id="category-tag"></span>
+            <span class="story-count" id="story-count"></span>
+        </div>
+    </div>
+    
+    <div class="stories-container" id="stories-container"></div>
+    
+    <button id="submit-button" class="submit-button" disabled>Submit</button>
+
+    <script>
+        let currentQuestionId = null;
+        let selectedStories = [];
+        let expectedStoryCount = 0;
+        let isEvaluated = false;
+        
+        async function loadGame() {
+            isEvaluated = false;
+            const response = await fetch('/api/get-game-data');
+            const data = await response.json();
+            
+            if (data.error) {
+                alert('Error loading question: ' + data.error);
+                return;
+            }
+            
+            // Display question and metadata
+            document.getElementById('question-text').textContent = data.question.text;
+            document.getElementById('category-tag').textContent = data.question.category;
+            document.getElementById('story-count').textContent = `Expected stories: ${data.question.story_count}`;
+            currentQuestionId = data.question.id;
+            expectedStoryCount = data.question.story_count;
+            
+            // Create story buttons
+            const storiesContainer = document.getElementById('stories-container');
+            storiesContainer.innerHTML = '';
+            selectedStories = data.stories.map((story) => ({
+                text: story,
+                selected: false
+            }));
+            
+            data.stories.forEach((story, index) => {
+                const button = document.createElement('button');
+                button.className = 'story-button';
+                button.innerHTML = `
+                    <div class="story-text">${story}</div>
+                    <div class="result-icon check">✓</div>
+                    <div class="result-icon x">✗</div>
+                    <div class="story-details">
+                        <div class="match-strength"></div>
+                        <div class="feedback"></div>
+                    </div>
+                `;
+                button.onclick = () => toggleStory(index);
+                storiesContainer.appendChild(button);
+            });
+            
+            // Reset submit button
+            const submitButton = document.getElementById('submit-button');
+            submitButton.textContent = 'Submit';
+            submitButton.disabled = true;
+            submitButton.onclick = checkAnswers;
+            
+            // Hide all story details and result icons
+            document.querySelectorAll('.story-details').forEach(detail => {
+                detail.classList.remove('visible');
+            });
+            document.querySelectorAll('.result-icon').forEach(icon => {
+                icon.style.display = 'none';
+            });
+        }
+        
+        function toggleStory(index) {
+            if (isEvaluated) {
+                return; // Prevent toggling after submission
+            }
+            
+            selectedStories[index].selected = !selectedStories[index].selected;
+            
+            // Update button appearance
+            const button = document.querySelectorAll('.story-button')[index];
+            button.classList.toggle('selected');
+            
+            // Enable/disable submit button
+            const selectedCount = selectedStories.filter(story => story.selected).length;
+            const submitButton = document.getElementById('submit-button');
+            submitButton.disabled = selectedCount === 0;
+            
+            // Update story count display
+            document.getElementById('story-count').textContent = 
+                `Expected stories: ${expectedStoryCount} | Selected: ${selectedCount}`;
+        }
+        
+        async function checkAnswers() {
+            try {
+                const response = await fetch('/api/check-answers', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        selected_stories: selectedStories,
+                        question_id: currentQuestionId
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    alert('Error checking answers: ' + data.error);
+                    return;
+                }
+                
+                isEvaluated = true;
+                
+                // Display results
+                const buttons = document.querySelectorAll('.story-button');
+                data.results.forEach(result => {
+                    const button = buttons[result.story_index];
+                    const checkIcon = button.querySelector('.result-icon.check');
+                    const xIcon = button.querySelector('.result-icon.x');
+                    const details = button.querySelector('.story-details');
+                    const matchStrength = button.querySelector('.match-strength');
+                    const feedback = button.querySelector('.feedback');
+                    
+                    // Show the appropriate icon
+                    if (result.is_correct) {
+                        checkIcon.style.display = 'block';
+                        xIcon.style.display = 'none';
+                    } else {
+                        checkIcon.style.display = 'none';
+                        xIcon.style.display = 'block';
+                    }
+                    
+                    // Show match strength and rationale if available
+                    if (result.should_have_selected) {
+                        matchStrength.textContent = `Match Strength: ${result.match_strength}/5`;
+                        feedback.textContent = result.rationale;
+                        details.classList.add('visible');
+                        feedback.style.display = 'block';
+                    }
+                });
+                
+                // Change submit button to continue
+                const submitButton = document.getElementById('submit-button');
+                submitButton.textContent = 'Continue';
+                submitButton.disabled = false;
+                submitButton.onclick = loadGame;
+                
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Error checking answers. Please try again.');
+            }
+        }
+        
+        // Initial load
+        loadGame();
+    </script>
+</body>
+</html>

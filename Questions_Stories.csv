@@ -1,0 +1,949 @@
+Question ID,Question,Story#,Story,Match strength,Rationale
+1,Tell me about a time when you faced a challenge and overcame it.,1,OLAF Scope,5,"Transformed complex onboarding process, reduced questions by 25%, cut time from 4 to 1 day"
+1,Tell me about a time when you faced a challenge and overcame it.,2,PNC Trade Finance,5,"Built custom CRM system to solve visibility issues, transformed underperforming team"
+1,Tell me about a time when you faced a challenge and overcame it.,3,Global Pay STP rates,4,Tackled complex payment processing issues to improve straight-through processing rates
+2,Tell me about a time when you weren't able to reach a deadline.,1,Ripple pilot,3,Technically missed quarterly deadline but still achieved strategic goal of beating competitors
+3,Describe a major change that occurred in a job that you held. How did you adapt to this change?,1,Global Pay Roles,5,Adapted to multiple role changes within same program based on evolving needs
+3,Describe a major change that occurred in a job that you held. How did you adapt to this change?,2,The Amazon experience,4,Adapted to department shutdown and project cancellations during tech industry downturn
+4,Tell me about a time when you had to deal with changing priorities.,1,Global Pay Roles,5,"Successfully managed multiple priority shifts between UX, STP rates, and strategic work"
+4,Tell me about a time when you had to deal with changing priorities.,2,Global Pay STP rates,4,Shifted from preferred UX role to critical STP work based on program needs
+5,Tell me about a time when you had to make a decision quickly or with insufficient data.,1,Ripple pilot,5,Made quick partner selection decisions under tight timeline constraints
+5,Tell me about a time when you had to make a decision quickly or with insufficient data.,2,Global Pay Research,4,Balanced speed vs quality in research decisions while teams waited for direction
+6,Tell me about a time when you used a lot of data in a short period of time.,1,Global Pay Roadmap,5,"Analyzed extensive customer data, created segmentation, and integrated research across continents"
+6,Tell me about a time when you used a lot of data in a short period of time.,2,Global Pay STP rates,4,Analyzed large volumes of payment failure data to improve processing rates
+7,Tell me about a time when you handled a risky situation.,1,Ripple pilot,5,Managed high-stakes blockchain pilot with aggressive timeline and new technology
+7,Tell me about a time when you handled a risky situation.,2,PNC Canada risk review,4,Navigated complex stakeholder situation with risk committee approval
+8,Describe a decision you made that wasn't popular. How did you handle implementing it?,1,GBAC Vision,5,"Pushed back on executive's preference for off-the-shelf solution, built support for custom platform"
+8,Describe a decision you made that wasn't popular. How did you handle implementing it?,2,Global Pay Research,4,"Challenged manager's view on research approach, proposed and implemented compromise"
+9,Describe a time when you had to motivate employees or coworkers.,1,Global Pay STP rates,5,Mentored analyst into product role while delivering critical technical improvements
+9,Describe a time when you had to motivate employees or coworkers.,2,OLAF Scope,4,Led cross-functional team to question requirements and find improvement opportunities
+10,Tell me about a time when you showed initiative.,1,PNC Trade Finance,5,Went beyond marketing assignment to build custom CRM system
+10,Tell me about a time when you showed initiative.,2,Statements Hub,5,Transformed basic API request into company-wide strategic initiative
+11,Tell me about a time when you had to give a presentation to people who disagreed with you.,1,PNC Canada risk review,5,Handled challenging risk committee presentation and subsequent stakeholder management
+11,Tell me about a time when you had to give a presentation to people who disagreed with you.,2,GBAC Vision,4,Presented and defended vision to skeptical executive
+12,Tell me about a time when you had to make an unpopular decision.,1,Global Pay STP rates,5,Left preferred UX role to focus on critical but less exciting STP work
+12,Tell me about a time when you had to make an unpopular decision.,2,GBAC Vision,4,Challenged executive's preference for commercial solution
+13,Tell me about a time when you had to sell another person or team on your idea.,1,OLAF Scope,5,Convinced stakeholders to expand scope for deeper process improvements
+13,Tell me about a time when you had to sell another person or team on your idea.,2,GBAC Vision,5,Built support for custom platform vision through systematic approach
+14,Tell me about a time when you've built a team.,1,OLAF Scope,4,Assembled and led cross-functional team to transform onboarding process
+14,Tell me about a time when you've built a team.,2,Global Pay Roles,4,Created and established UX team working across domains
+15,Tell me about a time when you made a mistake.,1,PNC Canada risk review,5,Failed to translate Canadian banking terms for US risk committee
+15,Tell me about a time when you made a mistake.,2,GBAC Vision,4,Initially failed to build trust with executive before presenting vision
+16,Tell me about a time when you failed.,1,PNC Canada risk review,5,Initial risk committee presentation was a complete failure
+17,Tell me about a time when you improperly analyzed a situation.,1,PNC Canada risk review,5,Misjudged need to translate Canadian banking concepts for US audience
+18,Tell me about a time when you were disappointed with yourself.,1,PNC Canada risk review,5,Reflects on naivety in risk committee presentation approach
+19,Tell me about a time when you were unable to juggle all your responsibilities.,1,Global Pay STP rates,5,Recognized inability to handle both UX and STP roles effectively
+20,Tell me about something you're proud of accomplishing.,1,PNC Trade Finance,5,Created system that transformed team and was used for 15 years
+20,Tell me about something you're proud of accomplishing.,2,OLAF Scope,5,Reduced onboarding time by 75% and eliminated paper applications
+20,Tell me about something you're proud of accomplishing.,3,Global Pay Roadmap,4,Created roadmap methodology that became organizational best practice
+20,Tell me about something you're proud of accomplishing.,4,Ripple pilot,4,Led first blockchain payment pilot among major card networks
+21,Tell me about a time when you reached a goal that was important.,1,OLAF Scope,5,Successfully transformed onboarding process despite initial stakeholder skepticism
+21,Tell me about a time when you reached a goal that was important.,2,Ripple pilot,5,Achieved strategic goal of launching first blockchain pilot among payment networks
+22,Tell me a specific insight you gained from something outside of work.,1,The 2014 sabbatical,5,Learned importance of brand trust in fintech adoption through European research
+22,Tell me a specific insight you gained from something outside of work.,2,The 2023 sabbatical,5,Gained deep insights into AI's impact on product development and user experience
+23,Tell me about a time when you went above and beyond the call of duty.,1,PNC Trade Finance,5,Volunteered to build custom CRM system outside normal PM role
+23,Tell me about a time when you went above and beyond the call of duty.,2,Global Pay STP rates,4,Took on additional analysis work while training replacement
+24,Describe a time when you resolved a situation before it became serious.,1,Statements Hub,5,Prevented implementation of unsuitable API solution through proactive analysis
+24,Describe a time when you resolved a situation before it became serious.,2,GBAC Vision,4,Identified and addressed potential issues before full implementation
+25,Tell me about a time when you had to show innovation.,1,OLAF Innovation,5,Created innovative solution for capturing ownership structures in onboarding
+25,Tell me about a time when you had to show innovation.,2,PNC Trade Finance,5,Developed innovative CRM solution for complex multi-party coordination
+26,Tell me about a time when you solved a problem in a creative way.,1,OLAF Innovation,5,Developed creative solution for different customer ownership scenarios
+26,Tell me about a time when you solved a problem in a creative way.,2,Global Pay Research,4,Created two-stage approach to balance speed and quality needs
+27,Tell me about a time when you had to work across teams to accomplish something.,1,OLAF Scope,5,"Coordinated across sales, operations, legal, compliance, and risk teams"
+27,Tell me about a time when you had to work across teams to accomplish something.,2,Ripple pilot,5,Managed complex coordination between multiple international partners
+28,Tell me about a time when you had a disagreement at work.,1,Global Pay Research,5,Resolved disagreement with manager over research approach through compromise
+28,Tell me about a time when you had a disagreement at work.,2,GBAC Vision,4,Handled disagreement with executive over solution approach
+29,Tell me about a time when you mentored or aided a coworker.,1,Global Pay STP rates,5,Mentored analyst into product management role while delivering technical improvements
+30,Tell me about a time when you had to do something you didn't want to do.,1,Global Pay STP rates,5,Left preferred UX role to tackle critical but less exciting STP work
+30,Tell me about a time when you had to do something you didn't want to do.,2,Global Pay Roles,4,Adapted to multiple role changes based on program needs rather than preference
+31,Tell me about a time when you had to compromise.,1,Global Pay Research,5,Created two-stage research approach to balance manager's speed concerns with quality needs
+31,Tell me about a time when you had to compromise.,2,GBAC Vision,4,Adjusted vision implementation approach based on executive feedback
+32,Tell me about a time when you had to resolve a conflict.,1,Global Pay Research,5,Resolved conflict with manager over research methodology through creative solution
+32,Tell me about a time when you had to resolve a conflict.,2,PNC Canada risk review,4,Resolved initial committee rejection through one-on-one engagement
+33,Tell me about a time when you had a challenging interaction with a coworker.,1,PNC Canada risk review,5,Navigated difficult risk committee interaction and rebuilt relationships
+33,Tell me about a time when you had a challenging interaction with a coworker.,2,GBAC Vision,4,Managed challenging interaction with skeptical executive
+34,Tell me about a time when you didn't have enough data to make the right decision.,1,Ripple pilot,5,Made quick partner selection decisions with limited time for due diligence
+34,Tell me about a time when you didn't have enough data to make the right decision.,2,Global Pay Research,4,Needed to provide direction while waiting for comprehensive research
+35,Tell me about a strategic decision you had to make without clear data or benchmarks.,1,Ripple pilot,5,Selected blockchain partners without precedent or comprehensive RFP process
+35,Tell me about a strategic decision you had to make without clear data or benchmarks.,2,PNC Trade Finance,4,Decided to build custom CRM without clear precedent for PM coding
+36,Tell me about a time when you made a difficult decision with input from many different sources.,1,OLAF Scope,5,Incorporated input from multiple stakeholders to transform onboarding process
+36,Tell me about a time when you made a difficult decision with input from many different sources.,2,Global Pay Roadmap,4,Integrated diverse data sources and stakeholder input for roadmap development
+37,Tell me about a time when you made a bad decision.,1,PNC Canada risk review,5,Initial approach to risk committee presentation proved ineffective
+37,Tell me about a time when you made a bad decision.,2,GBAC Vision,4,Initial presentation approach to executive needed significant revision
+38,Tell me about a time when you made an error in judgment.,1,PNC Canada risk review,5,Misjudged need to translate banking terms for US audience
+39,Tell me about a time when you discovered that your idea was not the best course of action.,1,Statements Hub,5,Realized original API implementation wasn't best solution for company needs
+39,Tell me about a time when you discovered that your idea was not the best course of action.,2,OLAF Innovation,4,Adapted initial ownership structure approach based on customer feedback
+40,Tell me about a time when you brought different perspectives together to solve a problem.,1,OLAF Scope,5,United diverse stakeholders to transform onboarding process
+40,Tell me about a time when you brought different perspectives together to solve a problem.,2,Global Pay Roadmap,5,Integrated perspectives from multiple teams to create optimal roadmap
+41,Tell me about a time you made a mistake.,1,PNC Canada risk review,5,Clear mistake in risk committee presentation with detailed recovery steps
+41,Tell me about a time you made a mistake.,2,GBAC Vision,4,Initial approach with executive needed significant correction
+42,Talk me through a poor decision you made.,1,PNC Canada risk review,5,Poor decision to use Canadian banking terms without translation
+43,"Tell me about a time when you made a good decision, only because you had learned from an earlier bad one.",1,GBAC Vision,5,Applied PNC risk committee lessons to build trust before presenting vision
+43,"Tell me about a time when you made a good decision, only because you had learned from an earlier bad one.",2,OLAF Scope,4,Used lessons from previous stakeholder experiences to gain support
+44,Give me an example of a significant failure at work.,1,PNC Canada risk review,5,Complete failure of initial risk committee presentation with recovery steps
+45,Give me an example of when you didn't have any data but you still had to make a decision.,1,Ripple pilot,5,Made quick partnership decisions with limited information
+45,Give me an example of when you didn't have any data but you still had to make a decision.,2,Global Pay Research,4,Provided initial direction while waiting for comprehensive data
+46,Tell me about a business model decision or key technology decision where there was not enough data or benchmarks.,1,PNC Trade Finance,5,Decided to build custom CRM without precedent for PM coding
+46,Tell me about a business model decision or key technology decision where there was not enough data or benchmarks.,2,Ripple pilot,4,Made blockchain technology choices without industry precedent
+47,Give me an example of a decision you made where you didn't have personal expertise or data to guide you.,1,Ripple pilot,5,Made blockchain partnership decisions in new technology area
+48,Tell me about a time you made a mistake.,1,PNC Canada risk review,5,Failed to translate banking terms for US audience
+48,Tell me about a time you made a mistake.,2,GBAC Vision,4,Initially failed to build executive trust
+49,Tell me about an error in judgment you made in the last year or two.,1,GBAC Vision,4,Misjudged need to build trust before presenting ambitious vision
+50,Tell me about a time when you made a bad decision and the learning enabled you to make a good decision later.,1,GBAC Vision,5,Applied risk committee presentation lessons to later stakeholder management
+50,Tell me about a time when you made a bad decision and the learning enabled you to make a good decision later.,2,PNC Canada risk review,4,Used failed presentation experience to improve stakeholder approach
+51,Give me an example of a significant professional failure.,1,PNC Canada risk review,5,Complete failure of risk committee presentation with detailed recovery process
+52,Tell me about a time you were wrong.,1,GBAC Vision,5,Wrong in initial approach to presenting vision to executive
+52,Tell me about a time you were wrong.,2,PNC Canada risk review,5,Wrong about approach to risk committee presentation
+53,Tell the story of the last time you had to apologize to someone.,1,PNC Canada risk review,3,Implicit apology and correction with risk committee members
+54,What regrets do you have?,1,PNC Canada risk review,3,Expresses regret about naivety in risk committee approach
+55,"Describe a situation where you thought you were right, but your peers or supervisor did not agree with you.",1,GBAC Vision,5,Executive disagreed with custom platform approach
+55,"Describe a situation where you thought you were right, but your peers or supervisor did not agree with you.",2,Global Pay Research,4,Manager disagreed with comprehensive research approach
+56,Tell me about a time you disagreed with a colleague.,1,Global Pay Research,5,Disagreed with manager over research methodology
+56,Tell me about a time you disagreed with a colleague.,2,GBAC Vision,4,Disagreed with executive over solution approach
+57,Tell me about a time that you strongly disagreed with your manager on something you deemed to be very important to the business.,1,Global Pay Research,5,Strong disagreement over research approach importance
+57,Tell me about a time that you strongly disagreed with your manager on something you deemed to be very important to the business.,2,GBAC Vision,4,Disagreed with executive over strategic platform approach
+58,Tell me about a difficult relationship with a stakeholder.,1,PNC Canada risk review,5,Difficult initial relationship with risk committee members
+58,Tell me about a difficult relationship with a stakeholder.,2,GBAC Vision,4,Challenging relationship with skeptical executive
+59,Tell me about a time where someone openly challenged you.,1,GBAC Vision,5,Executive openly challenged vision and approach
+59,Tell me about a time where someone openly challenged you.,2,Global Pay Research,4,Manager challenged proposed research methodology
+60,Give me an example of when you took an unpopular stance in a meeting with peers and your leader and you were the outlier.,1,GBAC Vision,5,Maintained stance on custom platform despite executive pushback
+60,Give me an example of when you took an unpopular stance in a meeting with peers and your leader and you were the outlier.,2,Global Pay Research,4,Defended comprehensive research approach against manager's preference
+61,When do you decide to go along with the group decision even if you disagree?,1,Global Pay STP rates,4,Accepted need to leave UX role for greater program benefit
+62,Tell me about a decision for which data and analysis weren't enough and you had to rely on your judgment and instincts.,1,Ripple pilot,5,Used judgment in partner selection without complete analysis
+62,Tell me about a decision for which data and analysis weren't enough and you had to rely on your judgment and instincts.,2,PNC Trade Finance,4,Relied on instinct about CRM solution potential
+63,Tell me about a time you made a difficult decision and how you knew it was the right solution.,1,OLAF Innovation,5,Multiple validation points confirmed ownership structure solution was right
+63,Tell me about a time you made a difficult decision and how you knew it was the right solution.,2,Global Pay STP rates,4,Results validated difficult decision to focus on STP work
+64,Give me an example of when you had to make an important decision in the absence of good data.,1,Ripple pilot,5,Made critical partnership decisions with limited time for data gathering
+64,Give me an example of when you had to make an important decision in the absence of good data.,2,PNC Trade Finance,4,Decided to build CRM without precedent data
+65,Tell me about a time you had to fix something but had no data or direction.,1,PNC Trade Finance,5,Created CRM solution without existing template or direction
+65,Tell me about a time you had to fix something but had no data or direction.,2,Global Pay STP rates,4,Developed new approach to improve processing rates
+66,Tell me about a time when you were faced with a challenge where the best way forward was not clear cut.,1,OLAF Innovation,5,Found innovative solution for complex ownership structure challenge
+66,Tell me about a time when you were faced with a challenge where the best way forward was not clear cut.,2,Global Pay Research,4,Developed creative approach to balance competing needs
+67,Give me an example of making an important decision in the absence of good data.,1,Ripple pilot,5,Selected blockchain partners without complete information
+67,Give me an example of making an important decision in the absence of good data.,2,Global Pay Research,4,Made initial roadmap decisions while awaiting research
+68,"Describe a situation where you thought you were right, but your peers or supervisor didn't agree with you.",1,GBAC Vision,5,Maintained position on custom platform despite executive skepticism
+68,"Describe a situation where you thought you were right, but your peers or supervisor didn't agree with you.",2,Global Pay Research,4,Defended research approach against manager's preference
+69,Tell me about a decision for which data and analysis weren't enough to provide the right course.,1,Ripple pilot,5,Required judgment beyond data for partner selection decisions
+69,Tell me about a decision for which data and analysis weren't enough to provide the right course.,2,OLAF Innovation,4,Needed creative thinking beyond data for ownership solution
+70,Tell me about a time when you had to work with incomplete data or information.,1,Ripple pilot,5,Made quick decisions with limited partner information
+70,Tell me about a time when you had to work with incomplete data or information.,2,Global Pay Research,4,Created initial roadmap with incomplete market data
+71,Can you think of a time you made a bad professional decision?,1,PNC Canada risk review,5,Clear bad decision in risk committee presentation approach
+71,Can you think of a time you made a bad professional decision?,2,GBAC Vision,4,Initial approach with executive proved ineffective
+72,When you had to make a difficult decision with inputs from a lot of people.,1,OLAF Scope,5,Integrated input from multiple stakeholders for onboarding transformation
+72,When you had to make a difficult decision with inputs from a lot of people.,2,Global Pay Roadmap,4,Synthesized diverse inputs for roadmap development
+73,Tell me about an error in judgment you made in the last year or two.,1,GBAC Vision,4,Recent error in approach to executive presentation
+74,Give me an example of a significant professional failure.,1,PNC Canada risk review,5,Complete failure of risk committee presentation with recovery
+75,Give me an example of a calculated risk that you have taken where speed was critical.,1,Ripple pilot,5,Quick blockchain partner selection under tight timeline
+75,Give me an example of a calculated risk that you have taken where speed was critical.,2,Global Pay Research,4,Two-stage approach balanced speed and quality needs
+76,Tell me about a time when you worked against tight deadlines and didn't have time to consider all options.,1,Ripple pilot,5,Made quick partnership decisions to meet announcement deadline
+76,Tell me about a time when you worked against tight deadlines and didn't have time to consider all options.,2,Global Pay Research,4,Created initial roadmap under time pressure
+77,Describe a situation where you made an important business decision without consulting your manager.,1,PNC Trade Finance,5,Proposed and built CRM system beyond original assignment
+77,Describe a situation where you made an important business decision without consulting your manager.,2,Statements Hub,4,Transformed API request into strategic initiative
+78,Tell me about a time when you had to gather information and respond immediately to a situation.,1,PNC Canada risk review,4,Quickly gathered information to address committee concerns
+79,When did you have to make an important decision between moving forward or gathering more information?,1,Global Pay Research,5,Balanced immediate direction needs with thorough research
+79,When did you have to make an important decision between moving forward or gathering more information?,2,Ripple pilot,4,Decided to proceed with limited partner information
+80,Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it.,1,PNC Trade Finance,5,Proactively identified and solved team visibility issues
+80,Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it.,2,OLAF Scope,4,Proactively expanded scope to address deeper problems
+81,Tell me about a time when you felt your team was not moving to action quickly enough.,1,Ripple pilot,5,Recognized slow progress due to timezone issues and took action
+81,Tell me about a time when you felt your team was not moving to action quickly enough.,2,Global Pay Research,4,Addressed slow progress with two-stage approach
+82,Tell me about a time when you were able to remove a serious roadblock preventing your team from making progress.,1,OLAF Scope,5,Removed regulatory constraints blocking process improvement
+82,Tell me about a time when you were able to remove a serious roadblock preventing your team from making progress.,2,Global Pay STP rates,4,Resolved payment processing bottlenecks
+83,Tell me about a time when you felt your team were being slow to act.,1,Ripple pilot,5,Addressed slow progress due to international coordination issues
+84,Give me an example of a considered risk you took because you had to act fast.,1,Ripple pilot,5,Quick but calculated blockchain partner selection
+84,Give me an example of a considered risk you took because you had to act fast.,2,PNC Trade Finance,4,Rapid development of CRM system
+85,Walk me through a time you didn't have all the facts but you still had to make a decision.,1,Ripple pilot,5,Made partner decisions with limited information due to time constraints
+85,Walk me through a time you didn't have all the facts but you still had to make a decision.,2,Global Pay Research,4,Created initial roadmap before complete research
+86,Tell me about a time you had to make a quick decision without time for analysis.,1,Ripple pilot,5,Quick blockchain partnership decisions without full analysis
+87,Describe a situation where leadership wasn't available but you had to make a decision.,1,PNC Trade Finance,5,Independently proposed and initiated CRM development
+87,Describe a situation where leadership wasn't available but you had to make a decision.,2,Statements Hub,4,Transformed API request without waiting for leadership direction
+88,Tell me about a time you overcame indecision because there wasn't time to keep thinking.,1,Ripple pilot,5,Made quick partner decisions despite incomplete information
+88,Tell me about a time you overcame indecision because there wasn't time to keep thinking.,2,Global Pay Research,4,Provided initial direction while awaiting full research
+89,Give me an example of when you were required to move urgently without all information.,1,Ripple pilot,5,Urgent blockchain partner selection with limited data
+89,Give me an example of when you were required to move urgently without all information.,2,Global Pay Research,4,Created initial roadmap under time pressure
+90,Walk me through a situation where you faced a tight deadline without time to gather information.,1,Ripple pilot,5,Met announcement deadline despite limited partner evaluation time
+90,Walk me through a situation where you faced a tight deadline without time to gather information.,2,Global Pay Research,4,Provided direction while comprehensive research was pending
+91,When were you faced with moving forward or spending more time understanding?,1,Global Pay Research,5,Created two-stage solution balancing immediate progress with thorough research
+91,When were you faced with moving forward or spending more time understanding?,2,Ripple pilot,4,Balanced quick partner selection with necessary verification
+92,Tell me about a time when you were faced with a decision where the path wasn't obvious.,1,OLAF Innovation,5,Found innovative solution for complex ownership structure challenge
+92,Tell me about a time when you were faced with a decision where the path wasn't obvious.,2,GBAC Vision,4,Developed new approach after executive pushback
+93,Tell me about a time you took a risk.,1,PNC Trade Finance,5,Took risk building custom CRM as product manager
+93,Tell me about a time you took a risk.,2,Ripple pilot,5,Risked first blockchain implementation among payment networks
+94,Give me an example of a calculated risk where speed was critical.,1,Ripple pilot,5,Quick but calculated blockchain partner selection under deadline
+94,Give me an example of a calculated risk where speed was critical.,2,Global Pay Research,4,Balanced quick initial direction with thorough research
+95,Tell me about a time you had to make a decision with incomplete information.,1,Ripple pilot,5,Made partner decisions with limited evaluation time
+95,Tell me about a time you had to make a decision with incomplete information.,2,Global Pay Research,4,Created initial roadmap before full market data
+96,Describe a time you had to make an important decision on the spot to close a sale.,0,No match,0,No stories specifically about on-the-spot sales decisions
+97,Tell me about a time you had to make a quick judgment call without time for deep analysis.,1,Ripple pilot,5,Quick partner selection decisions under time pressure
+97,Tell me about a time you had to make a quick judgment call without time for deep analysis.,2,Global Pay Research,4,Initial roadmap decisions before complete analysis
+98,Describe a situation where you made a business decision without consulting your manager.,1,PNC Trade Finance,5,Independently proposed and built CRM system
+98,Describe a situation where you made a business decision without consulting your manager.,2,Statements Hub,4,Transformed API request into strategic initiative
+99,Tell me about a time when you had to analyze facts quickly and respond immediately.,1,PNC Canada risk review,4,Quickly analyzed and addressed committee concerns
+99,Tell me about a time when you had to analyze facts quickly and respond immediately.,2,Global Pay Research,4,Rapid initial analysis for roadmap direction
+100,Tell me about working against tight deadlines without time to consider all options.,1,Ripple pilot,5,Met announcement deadline with limited partner evaluation time
+100,Tell me about working against tight deadlines without time to consider all options.,2,Global Pay Research,4,Created initial roadmap under time constraints
+101,When did you have to decide between moving forward or gathering more information?,1,Global Pay Research,5,Created two-stage approach balancing immediate progress with thorough research
+101,When did you have to decide between moving forward or gathering more information?,2,Ripple pilot,4,Balanced quick decisions with necessary verification
+102,Describe a time when you saw a problem and took initiative to correct it.,1,PNC Trade Finance,5,Identified visibility issues and took initiative to build CRM
+102,Describe a time when you saw a problem and took initiative to correct it.,2,Statements Hub,5,Transformed simple API request into strategic solution
+103,Give me an example where you unblocked the team.,1,OLAF Scope,5,Removed regulatory constraints blocking process improvement
+103,Give me an example where you unblocked the team.,2,Ripple pilot,4,Resolved timezone coordination issues
+104,Tell me about getting information from someone who wasn't very responsive.,0,No match,0,No stories specifically about dealing with unresponsive stakeholders
+105,Tell me about a time your team wasn't moving to action quickly enough.,1,Ripple pilot,5,Addressed slow progress in international coordination
+105,Tell me about a time your team wasn't moving to action quickly enough.,2,Global Pay Research,4,Tackled slow progress with two-stage approach
+106,Tell me about removing a serious roadblock preventing team progress.,1,OLAF Scope,5,Removed regulatory constraints blocking improvement
+106,Tell me about removing a serious roadblock preventing team progress.,2,Global Pay STP rates,4,Resolved payment processing bottlenecks
+107,Can you give me an example of a calculated risk where speed was critical?,1,Ripple pilot,5,Quick but calculated blockchain partner selection
+107,Can you give me an example of a calculated risk where speed was critical?,2,PNC Trade Finance,4,Rapid development of CRM system
+108,Tell me about analyzing facts quickly and responding immediately.,1,PNC Canada risk review,4,Quick analysis and response to committee concerns
+108,Tell me about analyzing facts quickly and responding immediately.,2,Global Pay Research,4,Rapid initial analysis for roadmap direction
+109,Tell me about a time you took a risk.,1,PNC Trade Finance,5,Risky decision to build custom CRM as product manager
+109,Tell me about a time you took a risk.,2,Ripple pilot,5,First blockchain implementation among payment networks
+110,Tell me about making a decision with incomplete information.,1,Ripple pilot,5,Partner decisions with limited evaluation time
+110,Tell me about making a decision with incomplete information.,2,Global Pay Research,4,Initial roadmap decisions before complete market data
+111,Describe making an important decision on the spot to close a sale.,0,No match,0,No stories specifically about on-the-spot sales decisions
+112,Tell me about making a quick judgment call without time for analysis.,1,Ripple pilot,5,Quick partner selection decisions under time pressure
+112,Tell me about making a quick judgment call without time for analysis.,2,Global Pay Research,4,Initial roadmap decisions before complete analysis
+113,Describe making a business decision without consulting your manager.,1,PNC Trade Finance,5,Independently proposed and built CRM system
+113,Describe making a business decision without consulting your manager.,2,Statements Hub,4,Transformed API request into strategic initiative
+114,Tell me about working against tight deadlines.,1,Ripple pilot,5,Met aggressive blockchain announcement deadline
+114,Tell me about working against tight deadlines.,2,Global Pay Research,4,Delivered initial roadmap under time pressure
+115,What approach did you take with tight deadlines?,1,Ripple pilot,5,Created detailed project plan and personally managed coordination
+115,What approach did you take with tight deadlines?,2,Global Pay Research,4,Developed two-stage approach to meet immediate needs
+116,What information do you need before acting?,1,Global Pay Research,5,Balanced minimum viable information with thorough research needs
+116,What information do you need before acting?,2,Ripple pilot,4,Identified critical information for partner selection
+117,Describe seeing a problem and taking initiative to correct it.,1,PNC Trade Finance,5,Identified visibility issues and built CRM solution
+117,Describe seeing a problem and taking initiative to correct it.,2,Statements Hub,5,Transformed API request into strategic solution
+118,Tell me about getting information from someone who wasn't responsive.,0,No match,0,No stories specifically about dealing with unresponsive stakeholders
+119,Tell me about a time your team wasn't moving quickly enough.,1,Ripple pilot,5,Addressed slow progress in international coordination
+119,Tell me about a time your team wasn't moving quickly enough.,2,Global Pay Research,4,Tackled slow progress with two-stage approach
+120,Describe a difficult interaction you had with a customer.,0,No match,0,No stories specifically about difficult customer interactions
+121,Tell me about a time when you went above and beyond for a customer. Why did you do it? How did the customer respond? What was the outcome?,1,PNC Trade Finance,5,"Went far beyond original marketing assignment to build custom CRM system, transforming team performance and winning awards. System proved so valuable it was used for 15 years."
+122,Give me an example of when you were able to anticipate a customer need with a solution/product they didn't know they needed/wanted yet. How did you know they needed this? How did they respond?,1,Statements Hub,4,"Identified broader company-wide need for statement hub beyond original API request through extensive user research, leading to strategic solution proposal"
+122,Give me an example of when you were able to anticipate a customer need with a solution/product they didn't know they needed/wanted yet. How did you know they needed this? How did they respond?,2,GBAC Vision,3,"Recognized deeper automation needs beyond basic banking processes, proposed comprehensive platform despite initial pushback"
+123,Give me an example of a time when you asked for customer feedback. How did you use that feedback to drive innovation or improvement? How did the customer respond?,1,OLAF Innovation,5,"Used customer feedback to completely redesign onboarding process, reducing time by 75% and eliminating paper applications"
+123,Give me an example of a time when you asked for customer feedback. How did you use that feedback to drive innovation or improvement? How did the customer respond?,2,Global Pay Roadmap,4,"Conducted extensive customer research across continents to develop needs-based segmentation, leading to optimized roadmap"
+124,Tell me about a time when you evaluated the customer experience of your product or service. What did you do? What was the result?,1,OLAF Innovation,5,"Deep analysis of onboarding process revealed key friction points, led to innovative solutions reducing onboarding time from 4 days to 1"
+124,Tell me about a time when you evaluated the customer experience of your product or service. What did you do? What was the result?,2,Global Pay Roles,4,Led UX team to establish design standards and testing processes across multiple domains
+125,Tell me about a time when a customer came to you for something that wouldn't actually address their need. How did you approach the situation? What was the result?,1,Statements Hub,5,Treasurer requested API implementation but analysis revealed deeper problems requiring different solution; proposed comprehensive hub strategy instead
+126,Sometimes customers make unreasonable requests. Tell me about a time when you've had to push back or say no to a customer request. What did you say or do in response to that request?,1,Statements Hub,4,"Pushed back on Treasurer's API request with data showing APIs couldn't handle volume, proposed alternative strategic solution"
+127,Tell me about a time when you had to balance the needs of the customer with the needs of the business. What did you do? What was the result?,1,OLAF Innovation,4,Balanced customer experience needs with compliance requirements by creating different onboarding journeys for different customer types
+128,Give me an example of a change you implemented in your current team or organization to meet the needs of your customers. What has been the result?,1,OLAF Scope,5,"Expanded limited UI update project into comprehensive onboarding redesign, reducing process by 75% and becoming new standard"
+128,Give me an example of a change you implemented in your current team or organization to meet the needs of your customers. What has been the result?,2,PNC Trade Finance,4,Built custom CRM system that helped team grow 200% and win awards
+129,Tell me about a time you made something better or created something new because you listened to a customer/s. What was the situation and what action did you take?,1,OLAF Innovation,5,"Created innovative onboarding solution based on deep customer pain point analysis, reducing time by 75%"
+129,Tell me about a time you made something better or created something new because you listened to a customer/s. What was the situation and what action did you take?,2,PNC Trade Finance,4,Built CRM system after observing team's collaboration challenges
+130,"Give me an example of when you disappointed a customer. What happened, and how did you attempt to rectify the situation?",1,PNC Canada risk review,4,Failed initial risk committee presentation but recovered through detailed follow-up and translation of concepts into familiar terms
+131,Tell me about a time you handled a difficult customer. What did you do? How did you manage the customer? What was her/his reaction? What was the outcome?,1,PNC Canada risk review,4,"Handled difficult risk committee situation by breaking down concerns, translating concepts, and addressing each stakeholder individually"
+132,"Tell me about a time you put the customer first, regardless of what peers or higher management directed. What was the outcome?",1,OLAF Scope,5,Pushed for expanded scope against initial stakeholder resistance to truly solve customer pain points
+132,"Tell me about a time you put the customer first, regardless of what peers or higher management directed. What was the outcome?",2,PNC Trade Finance,4,Went beyond assigned marketing project to build system addressing core customer needs
+133,Walk me through a time when you helped a customer through a difficult process and what that looked like.,1,OLAF Innovation,5,"Redesigned complex onboarding process to make it easier for different customer types, reducing time from 4 days to 1"
+134,Can you tell me about a time when you felt really frustrated with a customer and their demands. How did you deal with it?,1,PNC Canada risk review,4,Managed frustration with risk committee's questions by creating detailed tracking system and individual follow-ups
+135,Tell me about a time when you've refused an unreasonable customer request?,1,Statements Hub,5,"Refused Treasurer's API implementation request with data showing technical limitations, proposed better alternative"
+136,Tell me about a time you had to compromise in order to satisfy a customer.,1,Global Pay Research,4,Found creative two-stage approach to balance manager's speed requirements with need for thorough research
+137,Walk me through a situation when you and a customer didn't agree on what they needed.,1,Statements Hub,5,"Disagreed with Treasurer's API solution, showed data proving limitations, proposed comprehensive alternative that better met needs"
+137,Walk me through a situation when you and a customer didn't agree on what they needed.,2,GBAC Vision,4,Pushed back on executive's preference for off-the-shelf solution by demonstrating deeper organizational needs
+138,Talk me through a time when there was a tension between your business goals and the needs of the customer.,1,Global Pay Research,5,Balanced pressure for quick roadmap delivery with need for thorough customer research through two-stage approach
+139,Tell me about a time when you over promised to a customer and then failed to deliver.,1,PNC Canada risk review,4,"Initially over-confident in risk committee presentation, recovered through systematic follow-up and translation of concepts"
+140,Give me an example of a time when you've re-evaluated a product or a service for the benefit of your customer.,1,OLAF Innovation,5,Complete re-evaluation of onboarding process led to innovative solution reducing time by 75%
+140,Give me an example of a time when you've re-evaluated a product or a service for the benefit of your customer.,2,Global Pay Roadmap,4,Comprehensive research led to transformation of backward-looking behavioral segmentation into forward-looking needs-based approach
+141,Give me an example of a time you made a significant change to your team because you felt you could meet the needs of your customer better.,1,Global Pay Roles,5,Set up dedicated UX team across domains to ensure consistent customer experience and Amex branding
+141,Give me an example of a time you made a significant change to your team because you felt you could meet the needs of your customer better.,2,PNC Trade Finance,4,Built custom CRM system to transform team collaboration and customer service
+142,How do you develop client relationships?,1,PNC Canada risk review,4,"Built relationships with stakeholders through individual meetings, detailed follow-ups, and translating concepts into their context"
+143,How do you anticipate your customer's needs?,1,Global Pay Roadmap,5,Combined behavioral data analysis with extensive research across continents to develop forward-looking needs-based segmentation
+143,How do you anticipate your customer's needs?,2,OLAF Innovation,4,Deep analysis of customer pain points led to innovative onboarding solution
+144,Tell me about a time you asked for customer feedback.,1,OLAF Innovation,5,"Gathered extensive customer feedback to redesign onboarding process, reducing time by 75%"
+144,Tell me about a time you asked for customer feedback.,2,Global Pay Roadmap,4,Conducted comprehensive research with thousands of customers across three continents
+145,"How do you ""wow"" your customers?",1,OLAF Innovation,5,Transformed 4-day onboarding process into 1-day experience through innovative solutions
+145,"How do you ""wow"" your customers?",2,PNC Trade Finance,4,Built unexpected solution that transformed team performance and lasted 15 years
+146,How do you see around the corner to delight the customer with something they didn't know they needed?,1,Statements Hub,5,Identified need for comprehensive hub strategy beyond requested API implementation through deep analysis
+146,How do you see around the corner to delight the customer with something they didn't know they needed?,2,GBAC Vision,4,Recognized deeper automation needs beyond surface-level process improvements
+147,Tell me about a time you used customer feedback to change the way you worked.,1,OLAF Innovation,5,Used customer feedback to completely redesign onboarding approach with different journeys for different customer types
+148,"When you're working with a large number of customers, it's tricky to deliver excellent service to all of them. How do you prioritize the different customer needs?",1,Global Pay Roadmap,5,Used data analytics and research to develop segmentation that maximized customer needs met with minimal capabilities
+149,When did you have to work backward from a customer requirement? How did you approach the situation?,1,OLAF Scope,5,Worked backward from customer pain points to expand project scope and create comprehensive solution
+149,When did you have to work backward from a customer requirement? How did you approach the situation?,2,OLAF Innovation,4,Started with customer pain points to design innovative onboarding solution
+150,"Give me an example of when you did not meet a client's expectations. What happened, and how did you attempt to rectify the situation?",1,PNC Canada risk review,5,"Failed to meet risk committee expectations initially, recovered through systematic follow-up and translation approach"
+150,"Give me an example of when you did not meet a client's expectations. What happened, and how did you attempt to rectify the situation?",2,GBAC Vision,3,"Initial vision rejected by executive, adapted approach with more detailed analysis and phased implementation"
+151,Describe a difficult interaction you had with a client. What was the situation and what action did you take?,1,PNC Canada risk review,5,Handled challenging risk committee meeting through systematic follow-up and concept translation
+152,Tell me about a time you changed your process to better align with customer needs.,1,OLAF Innovation,5,"Completely redesigned onboarding process based on customer needs, reducing time from 4 days to 1"
+152,Tell me about a time you changed your process to better align with customer needs.,2,Global Pay STP rates,4,Transformed payment processing to achieve higher straight-through processing rates
+153,When did you deal with an angry client? What actions did you take?,1,PNC Canada risk review,4,Managed frustrated risk committee through detailed tracking and individual follow-ups
+154,Most of us at one time have felt frustrated or impatient when dealing with customers. Can you tell me about a time when you felt this way?,1,PNC Canada risk review,5,Managed frustration during risk committee meeting by creating systematic approach to address concerns
+155,When do you think it's ok to push back or say no to an unreasonable customer request?,1,Statements Hub,5,"Pushed back on API implementation with data showing technical limitations, proposed better solution"
+155,When do you think it's ok to push back or say no to an unreasonable customer request?,2,GBAC Vision,4,Declined executive's preference for off-the-shelf solution with data showing inadequacy
+156,Tell me about the last time you had to apologize to someone.,1,PNC Canada risk review,4,Acknowledged initial presentation failure and worked systematically to address committee concerns
+157,"Tell me about a time a customer wanted one thing, but you felt they needed something else.",1,Statements Hub,5,"Showed Treasurer why requested APIs wouldn't work, proposed comprehensive hub strategy instead"
+157,"Tell me about a time a customer wanted one thing, but you felt they needed something else.",2,GBAC Vision,4,Demonstrated why off-the-shelf solution wouldn't meet organizational needs
+158,When was a time when you had to balance the needs of the customer with the needs of the business?,1,Global Pay Research,5,Created two-stage approach balancing quick delivery needs with thorough research requirements
+158,When was a time when you had to balance the needs of the customer with the needs of the business?,2,OLAF Innovation,4,Balanced customer experience improvements with compliance requirements
+159,"When you're working with a large number of customers, it's tricky to deliver excellent service to all of them. How do you prioritize different customer needs?",1,Global Pay Roadmap,5,Used data analytics and research to develop segmentation maximizing value with minimal capabilities
+160,When was a time you had to balance the needs of the customer with the needs of the business?,1,Global Pay Research,5,Developed two-stage approach to balance manager's speed requirements with need for thorough research
+160,When was a time you had to balance the needs of the customer with the needs of the business?,2,OLAF Innovation,4,Created different onboarding journeys balancing customer experience with compliance needs
+161,Give me an example of a change you implemented in your current team or organization to meet the needs of your customers.,1,OLAF Scope,5,"Expanded scope from UI update to comprehensive onboarding redesign, reducing process by 75%"
+161,Give me an example of a change you implemented in your current team or organization to meet the needs of your customers.,2,PNC Trade Finance,4,Built custom CRM system transforming team performance and winning awards
+162,Tell me about a time a customer wanted one thing but you felt they needed something else.,1,Statements Hub,5,"Showed why requested APIs weren't suitable, proposed comprehensive hub strategy that better met needs"
+162,Tell me about a time a customer wanted one thing but you felt they needed something else.,2,GBAC Vision,4,Demonstrated need for custom solution over requested off-the-shelf option
+163,Tell me about a time you used customer feedback to change the way you worked.,1,OLAF Innovation,5,"Used customer feedback to redesign onboarding process, reducing time from 4 days to 1"
+163,Tell me about a time you used customer feedback to change the way you worked.,2,Global Pay Roadmap,4,Transformed segmentation approach based on extensive customer research
+164,How do you get to an understanding of what the customer's needs are?,1,Global Pay Roadmap,5,"Combined data analytics, workshops, and research across continents to develop needs-based segmentation"
+164,How do you get to an understanding of what the customer's needs are?,2,OLAF Innovation,4,Deep analysis of customer pain points through process examination and feedback
+165,"How do you honestly pursue customer feedback, not just solicit them for compliments?",1,Global Pay Roadmap,5,Conducted comprehensive research across three continents to validate assumptions and identify unmet needs
+165,"How do you honestly pursue customer feedback, not just solicit them for compliments?",2,OLAF Innovation,4,Deep dive into customer pain points to identify real issues in onboarding process
+166,How do you wow your customers?,1,OLAF Innovation,5,Transformed 4-day process into 1-day experience through innovative redesign
+166,How do you wow your customers?,2,PNC Trade Finance,4,Built unexpected solution that transformed team performance
+167,Tell me about a time you obsessed over giving very high-quality service to a customer.,1,PNC Trade Finance,5,Went beyond assignment to build system that served customer needs for 15 years
+167,Tell me about a time you obsessed over giving very high-quality service to a customer.,2,OLAF Innovation,4,Completely redesigned onboarding to eliminate pain points
+168,Can you describe a difficult interaction you've had with a customer?,1,PNC Canada risk review,5,Managed challenging risk committee meeting through systematic follow-up
+169,Can you provide an example of when you asked a customer for feedback?,1,Global Pay Roadmap,5,Conducted extensive research with thousands of customers to validate assumptions
+169,Can you provide an example of when you asked a customer for feedback?,2,OLAF Innovation,4,Gathered feedback to redesign onboarding process
+170,Tell me about a time when you went above and beyond the call of duty for a customer.,1,PNC Trade Finance,5,Built custom CRM system far beyond original marketing assignment
+170,Tell me about a time when you went above and beyond the call of duty for a customer.,2,OLAF Scope,4,Expanded project scope significantly to truly solve customer pain points
+171,Have you ever refused to indulge an unreasonable request from a customer?,1,Statements Hub,5,"Refused Treasurer's API request with data showing limitations, proposed better solution"
+171,Have you ever refused to indulge an unreasonable request from a customer?,2,GBAC Vision,4,Declined executive's preference for off-the-shelf solution with supporting analysis
+172,Give me an example of a time you used customer feedback to drive improvement or innovation.,1,OLAF Innovation,5,"Used customer feedback to transform onboarding process, reducing time by 75%"
+172,Give me an example of a time you used customer feedback to drive improvement or innovation.,2,Global Pay Roadmap,4,Used customer research to develop optimized roadmap
+173,Give me an example of a time when you were able to deliver an important project under a tight deadline.,1,Ripple pilot,5,Delivered first blockchain pilot among major card networks in 4 months despite complex coordination challenges
+173,Give me an example of a time when you were able to deliver an important project under a tight deadline.,2,Global Pay Research,4,Met tight roadmap deadline through creative two-stage approach
+174,"Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal.",1,Global Pay STP rates,5,Overcame complex payment processing challenges to achieve 90% straight-through processing target
+174,"Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal.",2,PNC Canada risk review,4,Recovered from failed risk committee presentation through systematic approach
+175,Tell me about a time when you not only met a goal but considerably exceeded expectations.,1,PNC Trade Finance,5,Turned simple marketing project into transformative CRM system used for 15 years
+175,Tell me about a time when you not only met a goal but considerably exceeded expectations.,2,OLAF Scope,4,Expanded UI update into comprehensive process redesign
+176,Tell me about a time when you or your team were more than half way to meeting a goal when you realized it may not be the right goal.,1,Statements Hub,5,Redirected from API implementation to comprehensive hub strategy after discovering broader needs
+177,Give me an example of a mission or goal you didn't think was achievable.,1,Ripple pilot,4,Achieved ambitious timeline for first blockchain pilot despite complex coordination challenges
+178,Tell me about a time when you did not effectively manage your projects and something did not get completed on time.,1,PNC Canada risk review,5,"Initial risk committee presentation failed due to inadequate preparation, requiring additional time for recovery"
+179,Tell me about a time when you hit the right balance setting challenging yet achievable goals.,1,Global Pay Research,5,Created two-stage approach balancing immediate needs with thorough research
+180,Tell me about a time when you hit the right balance setting challenging yet achievable goals.,1,Global Pay Research,5,Balanced quick delivery with quality through two-stage approach
+180,Tell me about a time when you hit the right balance setting challenging yet achievable goals.,2,GBAC Vision,4,Developed phased approach to make ambitious automation vision achievable
+181,Tell me about a time when you went way beyond the scope of the project and over delivered.,1,PNC Trade Finance,5,Transformed simple marketing project into comprehensive CRM system that drove 200% growth
+181,Tell me about a time when you went way beyond the scope of the project and over delivered.,2,OLAF Scope,4,Expanded UI update into complete process redesign reducing onboarding time by 75%
+182,Describe a time when you had to face particularly challenging situations while working on a project.,1,Ripple pilot,5,Managed complex coordination across multiple time zones and partners to deliver first blockchain pilot
+182,Describe a time when you had to face particularly challenging situations while working on a project.,2,Global Pay STP rates,4,Tackled complex payment processing challenges requiring deep analysis
+183,Give me an example of a time when you were at risk of not meeting a goal.,1,PNC Canada risk review,5,Recovered from failed risk committee presentation through systematic follow-up
+183,Give me an example of a time when you were at risk of not meeting a goal.,2,Ripple pilot,4,Overcame timeline challenges through enhanced project management approach
+184,Tell me about a time when barriers you hadn't planned for kept getting in your way.,1,Global Pay STP rates,5,"Discovered unexpected complexity in payment rules, developed systematic approach to address each issue"
+184,Tell me about a time when barriers you hadn't planned for kept getting in your way.,2,PNC Canada risk review,4,"Faced unexpected communication challenges with risk committee, created detailed tracking system"
+185,Describe a time when you had to face a particularly challenging situation while working on a project.,1,Ripple pilot,5,Managed complex coordination challenges across time zones to deliver first blockchain pilot
+186,How you check your progress against your goals?,1,Global Pay STP rates,4,Created systematic approach to track progress toward 90% straight-through processing target
+187,Do you set and communicate smart team goals and help remove barriers toward meeting them?,1,Global Pay Roles,5,Set up cross-domain UX team with clear standards and mentored team members into new roles
+188,Give me an example of a time you struggled with something and then turned it around.,1,PNC Canada risk review,5,Recovered from failed presentation through systematic stakeholder engagement
+189,Tell me about a time where you not only met the goal but considerably exceeded expectations.,1,PNC Trade Finance,5,Built CRM system that drove 200% growth and was used for 15 years beyond original marketing assignment
+189,Tell me about a time where you not only met the goal but considerably exceeded expectations.,2,OLAF Scope,4,Transformed simple UI update into comprehensive process redesign
+190,What's the most complicated problem you've ever worked on?,1,Global Pay Roadmap,5,"Developed complex roadmap balancing multiple customer segments, technical capabilities, and cross-selling opportunities"
+190,What's the most complicated problem you've ever worked on?,2,GBAC Vision,4,Created comprehensive automation strategy for complex banking processes across multiple teams
+191,Have you ever worked on something really hard and then failed?,1,PNC Canada risk review,5,"Failed initial risk committee presentation despite extensive preparation, but ultimately succeeded through systematic recovery"
+192,Tell me about a technical problem you couldn't solve.,1,Statements Hub,4,"Discovered technical limitations made API implementation unfeasible, pivoted to alternative solution"
+193,Describe a situation where you had to face a particularly challenging situation while working on a project.,1,Ripple pilot,5,Managed complex coordination across time zones and partners to deliver first blockchain pilot
+193,Describe a situation where you had to face a particularly challenging situation while working on a project.,2,Global Pay STP rates,4,Tackled complex payment processing challenges through systematic analysis
+194,Do you set and communicate smart team goals and help remove barriers toward meeting team goals?,1,Global Pay Roles,5,Established cross-domain UX team with clear standards and mentored team members
+195,Tell me about a time when you were able to persevere through setbacks to deliver outstanding results.,1,PNC Canada risk review,5,Recovered from failed presentation through systematic follow-up to achieve approval
+195,Tell me about a time when you were able to persevere through setbacks to deliver outstanding results.,2,GBAC Vision,4,Adapted vision after initial rejection with more detailed analysis
+196,What's the most complex problem you've ever worked on?,1,Global Pay Roadmap,5,"Developed complex roadmap balancing multiple segments, capabilities, and cross-selling opportunities"
+196,What's the most complex problem you've ever worked on?,2,GBAC Vision,4,Created comprehensive automation strategy across multiple banking processes
+197,"Tell me about a time when you were leading a group, were assigned a goal, and did not reach it.",1,GBAC Vision,3,Project put on hold due to external factors despite progress in gaining support
+198,Tell me about a time where you not only met a goal but considerably exceeded expectations.,1,PNC Trade Finance,5,Transformed marketing project into transformative CRM system used for 15 years
+198,Tell me about a time where you not only met a goal but considerably exceeded expectations.,2,OLAF Scope,4,Expanded UI update into comprehensive process redesign
+199,Tell me about a time when you were able to deliver an important project under a tight deadline.,1,Ripple pilot,5,Delivered first blockchain pilot in 4 months despite complex coordination challenges
+200,Tell me about a time where you did not effectively manage your project and something did not get completed on time?,1,PNC Canada risk review,5,"Initial presentation failure led to project delays, required systematic recovery approach"
+201,"Tell me about a time you had significant, unanticipated obstacles to overcome in achieving a key goal",1,PNC Canada risk review,5,Shows overcoming significant roadblock with risk committee through persistence and adaptation
+201,"Tell me about a time you had significant, unanticipated obstacles to achieve a key goal",2,Ripple pilot,4,Demonstrates overcoming timezone coordination challenges to meet aggressive deadline
+202,Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress,1,OLAF Scope,5,Shows removing onboarding process barriers by questioning requirements and getting executive approval
+202,Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress,2,OLAF Innovation,4,Demonstrates removing ownership structure verification bottleneck through process redesign
+203,Tell me about a time when you were more than half-way and realized it was the wrong goal,1,Statements Hub,5,Shifted from implementing APIs to creating company-wide strategy after discovering APIs wouldn't scale
+204,Tell me about a time when you were trying to understand a complex problem and had to dig into the details,1,Global Pay STP rates,5,Deep investigation into payment processing rules and procedures across multiple teams
+204,Tell me about a time when you were trying to understand a complex problem and had to dig into the details,2,GBAC Vision,4,Detailed analysis of 17 banking processes with 145 steps and 42 handoffs
+205,Tell me about a situation that required you to dig deep to get to the root cause,1,Global Pay STP rates,5,Analyzed root causes of payment failures by investigating operational rules and procedures
+205,Tell me about a situation that required you to dig deep to get to the root cause,2,PNC Trade Finance,4,Discovered visibility issues by shadowing team and analyzing workflows
+206,Tell me about a problem you had to solve that required in-depth thought and analysis,1,Global Pay Roadmap,5,Deep analysis of customer segments and needs across multiple countries to optimize product roadmap
+206,Tell me about a problem you had to solve that required in-depth thought and analysis,2,Global Pay Research,4,Comprehensive research to transform behavioral segmentation into needs-based segmentation
+207,Walk me through a big problem or issue in your organization that you helped to solve,1,OLAF Scope,5,Identified and solved major onboarding inefficiencies through process redesign
+207,Walk me through a big problem or issue in your organization that you helped to solve,2,PNC Trade Finance,4,Solved team isolation issues by building custom CRM system
+208,Tell me about a specific metric you have used to identify a need for a change in your department,1,Global Pay STP rates,4,Used STP rates (60% vs target 90%) to drive process improvements
+209,Have you ever created a metric that helped identify a need for a change in your department,1,Global Pay STP rates,3,"While working with STP metrics, story doesn't specifically mention creating new metrics"
+210,Tell me about a time when you had to validate the assumptions underlying a direct report's project,0,No match,0,No stories specifically discuss validating a direct report's project assumptions
+211,"Amazon uses a root cause analysis process called the 5 whys. Can you give me an example of when you asked ""why"" 5 times to get to the bottom of a problem?",1,OLAF Innovation,5,"Repeatedly questioned ""why"" for each onboarding requirement until reaching root purpose"
+211,"Amazon uses a root cause analysis process called the 5 whys. Can you give me an example of when you asked ""why"" 5 times to get to the bottom of a problem?",2,Global Pay STP rates,4,Questioned rationale behind each operational rule and procedure
+212,Give me an example of a time when you had to dig really deep into multiple tiers of information to get to the source of a problem,1,Global Pay Roadmap,5,"Analyzed multiple tiers: transaction data, customer segments, market research across continents"
+212,Give me an example of a time when you had to dig really deep into multiple tiers of information to get to the source of a problem,2,GBAC Vision,4,Investigated multiple layers of banking processes across teams and systems
+213,Walk me through a problem where the solution wasn't easy to get to and you needed to use lots of data and scrutiny to solve it,1,Global Pay Roadmap,5,"Used transaction data, segmentation analysis, and market research to optimize product roadmap"
+213,Walk me through a problem where the solution wasn't easy to get to and you needed to use lots of data and scrutiny to solve it,2,Statements Hub,4,Analyzed statement usage across multiple Amazon teams to develop hub strategy
+214,Can you tell me about a data point that lead you to decide something needed to be changed in your area?,1,Global Pay STP rates,5,60% STP rate vs 90% target led to process overhaul
+215,Can you give me an example of a time when someone gave you an explanation you didn't think was right and you investigated to get the true answer?,1,Global Pay STP rates,4,Investigated assumed regulatory requirements that turned out to be outdated practices
+216,Give me an example of when you used data to make a decision/solve a problem,1,Global Pay Roadmap,5,Used customer segmentation and market research data to determine product roadmap
+216,Give me an example of when you used data to make a decision/solve a problem,2,OLAF Innovation,4,Analyzed customer data to design different onboarding journeys
+217,Tell me about an important analysis you did,1,Global Pay Roadmap,5,Comprehensive analysis combining behavioral data and market research to develop strategy
+217,Tell me about an important analysis you did,2,Statements Hub,4,Analysis of statement usage across Amazon led to new company-wide strategy
+218,Tell me a time you gave insights beyond the data,1,Global Pay Research,5,Transformed behavioral segmentation into needs-based segmentation through additional research
+219,Have you ever leveraged data to develop strategy?,1,Global Pay Roadmap,5,Used customer data and research to develop product strategy and roadmap
+219,Have you ever leveraged data to develop strategy?,2,Statements Hub,4,Used analysis of statement usage to develop company-wide strategy
+220,Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out,1,Global Pay STP rates,5,Investigated multiple layers of payment processing rules and procedures
+220,Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out,2,PNC Trade Finance,4,Discovered deep visibility issues by investigating team workflows
+221,Tell me about a problem you had to solve that required in-depth thought and analysis,1,Global Pay Roadmap,5,Complex analysis of customer segments and market research to develop optimal product roadmap
+221,Tell me about a problem you had to solve that required in-depth thought and analysis,2,GBAC Vision,4,Deep analysis of 17 banking processes to develop automation strategy
+222,Walk me through a big problem in your organization that you helped to solve,1,PNC Trade Finance,5,Transformed underperforming team by identifying and solving visibility issues
+222,Walk me through a big problem in your organization that you helped to solve,2,OLAF Scope,4,Solved major onboarding inefficiencies through process redesign
+223,Can you tell me about a specific metric you've used to identify a need for change in your department?,1,Global Pay STP rates,4,Used STP rates to identify need for process improvements
+224,When did you dig into a specific metric or KPI?,1,Global Pay STP rates,4,Analyzed STP rates to understand payment processing bottlenecks
+225,Walk me through a big problem in your organization that you helped to solve,1,PNC Trade Finance,5,Solved team isolation issues with custom CRM system that drove 200% growth
+225,Walk me through a big problem in your organization that you helped to solve,2,OLAF Scope,4,Redesigned onboarding process reducing time by 75%
+226,Tell me about the most complex problem you've ever worked on,1,Global Pay Roadmap,5,"Multi-year program involving segmentation, research across continents, and complex roadmap development"
+226,Tell me about the most complex problem you've ever worked on,2,GBAC Vision,4,Complex automation of 17 banking processes with 145 steps across multiple teams
+227,Tell me about a time you were trying to understand a problem on your team and had to go down several layers,1,Global Pay STP rates,5,Investigated multiple layers of payment processing rules and procedures
+227,Tell me about a time you were trying to understand a problem on your team and had to go down several layers,2,PNC Trade Finance,4,Discovered deep visibility issues through team workflow analysis
+228,Tell me about communicating a change in direction that people would have concerns with,1,Statements Hub,5,"Changed from API implementation to company-wide strategy, addressed stakeholder concerns"
+228,Tell me about communicating a change in direction that people would have concerns with,2,GBAC Vision,4,"Adapted vision after executive pushback, built support through detailed analysis"
+229,Give me an example of a tough or critical piece of feedback you received,1,PNC Canada risk review,5,"Received harsh feedback from risk committee, adapted approach and succeeded"
+229,Give me an example of a tough or critical piece of feedback you received,2,GBAC Vision,4,"Received pushback from executive about ambitious vision, adjusted approach"
+230,Describe a time when you needed to influence a peer who had a differing opinion about a shared goal,1,Global Pay Research,5,Successfully influenced manager to support comprehensive research approach through compromise
+230,Describe a time when you needed to influence a peer who had a differing opinion about a shared goal,2,OLAF Scope,4,Convinced stakeholders to expand limited scope into comprehensive solution
+231,Give me an example of a time when you were not able to meet a commitment.,1,GBAC Vision,4,Project put on hold due to tech downturn despite commitment to improve banking processes
+232,Tell me about a time when your team's goals were out of alignment with another team,1,PNC Canada risk review,5,Clear misalignment between risk committee and product team on Canadian banking solution
+233,Tell me about a time when you uncovered a significant problem in your team,1,PNC Trade Finance,5,Discovered fundamental visibility and collaboration problems in Trade Finance team
+234,Describe a time when you improved morale and productivity on your team,1,Global Pay STP rates,3,Improved team effectiveness by mentoring analyst into product role while solving technical challenges
+235,Tell me about a time when a team member was struggling at work,1,Global Pay STP rates,5,"Identified business analyst's potential, mentored them into product management role"
+236,Tell me about a time when you uncovered a significant problem in your team,1,PNC Trade Finance,5,Identified core visibility and process issues beyond original marketing assignment
+236,Tell me about a time when you uncovered a significant problem in your team,2,Statements Hub,4,Discovered inefficient duplicate infrastructure for bank statement processing across teams
+237,Describe a time when there was a morale issue in your team,0,No match,0,No stories specifically address team morale issues and recovery
+238,Give an example of a time where you failed on an obligation to a colleague,1,PNC Canada risk review,4,"Failed to effectively present to risk committee, learned valuable stakeholder management lessons"
+239,Tell me about a piece of feedback you recently gave to a colleague,1,Global Pay STP rates,3,Provided constructive feedback and mentoring to business analyst transitioning to product role
+240,Tell me about a time you were tasked with giving your team news they would not like,0,No match,0,No stories specifically about delivering difficult news to team
+241,Tell me about a time when you needed cooperation from someone who didn't want to give it,1,OLAF Scope,5,Convinced resistant stakeholders to expand project scope by demonstrating value and opportunities
+241,Tell me about a time when you needed cooperation from someone who didn't want to give it,2,PNC Canada risk review,4,Gained risk committee support through one-on-one meetings after initial resistance
+242,Give me an example of a time when you had goals in conflict with a peer,1,Global Pay Research,5,Resolved conflict with manager over research approach through creative compromise
+243,Tell me about a time you had to earn trust quickly,1,GBAC Vision,5,Had to quickly build trust as newcomer while proposing ambitious vision at Amazon
+243,Tell me about a time you had to earn trust quickly,2,OLAF Scope,4,Earned trust as new employee by demonstrating value through detailed analysis
+244,Describe a time when you significantly contributed to improving morale and productivity,1,Global Pay STP rates,3,Improved team effectiveness through mentoring and process improvements
+245,Give an example of not meeting a commitment to a team member,1,GBAC Vision,4,Unable to complete promised automation project due to company-wide spending freeze
+246,Tell me about a piece of direct feedback you recently gave to a colleague,1,Global Pay STP rates,3,Provided feedback and guidance to analyst transitioning to product role
+247,How do you like to receive feedback from coworkers or managers,0,No match,0,No stories discuss receiving personal feedback
+248,Tell me about communicating a big change with anticipated concerns,1,Global Pay Research,4,Managed transition to two-stage approach despite initial resistance
+249,Tell me about a time when someone criticized your work,1,PNC Canada risk review,5,"Received harsh feedback from risk committee, used it to improve approach"
+250,How do you convince someone resistant to what you're trying to do,1,OLAF Scope,5,Used data and examples to convince skeptical stakeholders
+250,How do you convince someone resistant to what you're trying to do,2,GBAC Vision,4,Adapted approach after pushback to gain executive support through visualization and phasing
+251,Tell me about a time you uncovered a problem on your team,1,PNC Trade Finance,5,Discovered fundamental visibility and collaboration issues in Trade Finance operations
+251,Tell me about a time you uncovered a problem on your team,2,Statements Hub,4,Identified inefficient duplicate infrastructure across teams for bank statements
+252,What would you do if your closest friend at work was stealing,0,No match,0,No stories address ethical dilemmas or misconduct situations
+253,Tell me about a time when you had to tell someone a harsh truth,0,No match,0,No stories specifically about delivering difficult personal feedback
+254,Do you collaborate well,1,OLAF Scope,5,Demonstrated collaboration across multiple teams to transform onboarding process
+254,Do you collaborate well,2,Ripple pilot,4,Successfully coordinated complex project across multiple organizations and time zones
+255,How do you earn trust from a team that you inherited,0,No match,0,No stories about taking over leadership of existing teams
+256,When did you negotiate with others to reach an agreement,1,Global Pay Research,5,Negotiated creative compromise with manager on research approach
+256,When did you negotiate with others to reach an agreement,2,OLAF Scope,4,Negotiated with stakeholders to expand project scope
+257,Tell me how you've built trusting working relationships,1,OLAF Scope,5,Built trust through thorough analysis and demonstrating value to stakeholders
+257,Tell me how you've built trusting working relationships,2,PNC Canada risk review,4,Rebuilt trust with risk committee through one-on-one meetings
+258,Give an example of not meeting a commitment to a team member,1,GBAC Vision,4,Unable to complete automation project due to company-wide freeze
+259,Describe getting cooperation from resistant peers,1,OLAF Scope,5,Convinced resistant stakeholders by showing concrete opportunities
+259,Describe getting cooperation from resistant peers,2,PNC Canada risk review,4,Won over resistant risk committee members through individual meetings
+260,Tell me about receiving criticism of your work,1,PNC Canada risk review,5,"Received harsh feedback from risk committee, used it constructively"
+261,Tell me about communicating a big change in direction,1,Global Pay Research,4,Managed transition to two-stage approach despite initial concerns
+262,Tell me about a critical piece of feedback you received,1,PNC Canada risk review,5,Received and acted on harsh feedback from risk committee
+263,Tell me about when you saw your team member struggling,1,Global Pay STP rates,5,Identified struggling analyst and helped transition to product role
+264,How did you effectively build trusting working relationships,1,OLAF Scope,5,Built trust through detailed analysis and demonstrating value
+264,How did you effectively build trusting working relationships,2,PNC Canada risk review,4,Rebuilt relationships with risk committee through individual attention
+265,Describe getting cooperation from a resistant peer,1,OLAF Scope,5,Convinced resistant stakeholders by showing concrete opportunities
+265,Describe getting cooperation from a resistant peer,2,GBAC Vision,4,Won executive support through revised approach and visualization
+266,How did you align mismatched team goals,1,PNC Canada risk review,5,Aligned risk committee and product team goals through detailed follow-up
+267,Example of helping save costs or eliminate waste,1,PNC Trade Finance,5,Created cost-effective CRM solution instead of expensive enterprise system
+267,Example of helping save costs or eliminate waste,2,Statements Hub,4,Identified and proposed eliminating duplicate infrastructure across teams
+268,Project completed with limited resources,1,PNC Trade Finance,5,Built successful CRM system with minimal resources in frugal period
+268,Project completed with limited resources,2,Ripple pilot,4,Managed complex project by taking on PM role instead of requesting headcount
+269,Creative solution with limited resources,1,PNC Trade Finance,5,Built custom CRM system instead of waiting for enterprise solution
+269,Creative solution with limited resources,2,OLAF Innovation,4,Found creative ways to streamline onboarding without system changes
+270,Tradeoffs between quality and cost,1,Global Pay Research,5,Created two-stage approach balancing speed/cost with research quality
+270,Tradeoffs between quality and cost,2,PNC Trade Finance,4,Balanced quick custom solution vs waiting for enterprise system
+271,Tell me about a creative solution without additional resources,1,PNC Trade Finance,5,Created innovative CRM solution using existing skills instead of new resources
+271,Tell me about a creative solution without additional resources,2,OLAF Innovation,4,Redesigned onboarding process without additional system investments
+272,Example of requesting additional funding/budget,1,OLAF Scope,4,Successfully argued for expanded project scope and resources
+273,Time when deciding whether to award additional resources,0,No match,0,No stories about being in position to award resources to others
+274,Challenging team for more efficient solution,1,Global Pay STP rates,4,Led team to find more efficient payment processing solutions
+275,Deciding whether to award/ask for additional resources,1,Ripple pilot,4,Chose to take on PM role instead of requesting additional headcount
+276,Pushing for cost-effective/efficient process,1,Statements Hub,5,Proposed consolidating duplicate infrastructure for better efficiency
+276,Pushing for cost-effective/efficient process,2,PNC Trade Finance,4,Created efficient system that saved costs for 15 years
+277,New way to save money or reduce excess,1,Statements Hub,5,Identified way to eliminate redundant systems across teams
+277,New way to save money or reduce excess,2,OLAF Innovation,4,Streamlined onboarding process reducing costs and time
+278,Working with limited time or resources,1,PNC Trade Finance,5,Built successful system during frugal period with minimal resources
+278,Working with limited time or resources,2,Ripple pilot,4,Delivered pilot in 4 months with tight timeline and limited team
+279,Achieving more output without additional investment,1,PNC Trade Finance,5,Grew revenue 200% without adding headcount through CRM system
+279,Achieving more output without additional investment,2,OLAF Innovation,4,Improved onboarding time 75% without additional systems
+280,Alternative proposal achieving same outcome for less,1,PNC Trade Finance,5,Proposed custom CRM instead of expensive enterprise solution
+280,Alternative proposal achieving same outcome for less,2,Statements Hub,4,Proposed consolidated solution instead of maintaining multiple systems
+281,What motivated this recommendation without compromising,1,PNC Trade Finance,5,Recommended custom solution to solve real problems while maintaining quality
+282,Time requesting additional funding,1,OLAF Scope,4,Successfully argued for expanded scope and additional resources
+283,New way to save company money,1,Statements Hub,5,Identified opportunity to eliminate duplicate systems and consolidate
+283,New way to save company money,2,PNC Trade Finance,4,Created cost-effective alternative to enterprise system
+284,Managing a budget to get more from less,1,PNC Trade Finance,5,Maximized limited resources to create high-impact solution
+285,Managing projects with no budget/resources,1,PNC Trade Finance,5,Successfully delivered during frugal period with minimal resources
+285,Managing projects with no budget/resources,2,Ripple pilot,4,Completed project by taking on additional roles instead of requesting resources
+286,Improving process with limited budget,1,OLAF Innovation,5,Transformed onboarding process through process changes rather than system investment
+287,Strongly disagreeing with manager/peer,1,Global Pay Research,5,"Disagreed with manager over research approach, found creative compromise"
+287,Strongly disagreeing with manager/peer,2,GBAC Vision,4,Pushed back on executive's suggestion to buy off-the-shelf solution
+288,Taking unpopular stance in meeting,1,OLAF Scope,5,Advocated for expanding scope against stakeholder resistance
+288,Taking unpopular stance in meeting,2,PNC Canada risk review,4,Defended product design despite risk committee opposition
+289,Committing to disagreed group decision,0,No match,0,No stories specifically about committing to opposed group decisions
+290,Proceeding after team chose different direction,0,No match,0,No stories about continuing work after team rejected preferred approach
+291,Pushing back against decision impacting team,0,No match,0,No stories about defending team from negative decisions
+292,Manager not supporting great idea,1,GBAC Vision,5,"Executive initially rejected automation platform vision, required new approach"
+293,Supporting disagreed business initiative,0,No match,0,No stories about supporting initiatives despite disagreement
+294,Business gained from your persistence,1,OLAF Scope,5,Persistent push for broader scope led to 75% reduction in onboarding time
+294,Business gained from your persistence,2,PNC Trade Finance,4,Persistence in building CRM led to 200% team growth
+295,Convincing others when you thought you were right,1,Global Pay Research,5,Convinced manager of research necessity through compromise approach
+295,Convincing others when you thought you were right,2,OLAF Scope,4,Convinced stakeholders to expand scope through demonstrated value
+296,Manager and you taking opposite positions,1,Global Pay Research,5,Resolved direct conflict with manager over research approach
+297,Acquiescing to group despite disagreement,0,No match,0,No stories about yielding to opposing group decisions
+298,Arguments against disagreeable task failed,0,No match,0,No stories about proceeding after failed arguments
+299,Taking position against everyone else,1,OLAF Scope,5,Advocated for expanded scope against initial universal resistance
+299,Taking position against everyone else,2,PNC Canada risk review,4,Defended design approach against unanimous risk committee opposition
+300,Not accepting status quo,1,PNC Trade Finance,5,Challenged original marketing assignment to solve deeper problems
+300,Not accepting status quo,2,Statements Hub,4,Rejected API goal to propose comprehensive company-wide solution
+300,Not accepting status quo,3,OLAF Scope,4,Pushed back against limited scope to create transformative solution
+301,Tell me about an unpopular decision,1,Global Pay STP rates,4,Made tough decision to leave preferred UX role for critical STP work
+302,Stepping up to disagree with team member's approach,1,Statements Hub,5,Challenged team's API-first approach with comprehensive solution
+303,Handling disagreement with manager's instruction,1,Global Pay Research,5,Constructively challenged manager's direction on research approach
+304,Time you had disagreement with manager,1,Global Pay Research,5,"Disagreed with manager over research methodology, found compromise"
+305,Disagreement with project manager,1,Global Pay Research,5,Resolved conflict with manager through creative two-stage solution
+306,Disagreement with colleague,1,PNC Canada risk review,4,Worked through disagreements with risk committee members
+307,Handling uncooperative teammates,1,OLAF Scope,4,Won over resistant stakeholders through demonstrated value
+308,Team disagreeing with your ideas,1,GBAC Vision,5,Handled team's resistance to automation platform vision
+308,Team disagreeing with your ideas,2,OLAF Scope,4,Convinced skeptical stakeholders of expanded scope benefits
+309,Conflict with team member and outcome,1,Global Pay Research,5,Resolved manager conflict through compromise solution
+310,Stepping up to disagree with team member's approach,1,Statements Hub,5,Challenged existing API approach to propose better solution
+310,Stepping up to disagree with team member's approach,2,PNC Trade Finance,4,Disagreed with original marketing-only approach to solve deeper issues
+311,Taking unpopular stance as outlier,1,OLAF Scope,5,Stood alone initially in pushing for expanded project scope
+311,Taking unpopular stance as outlier,2,PNC Canada risk review,4,Defended design approach against unanimous committee opposition
+312,Going along with group despite disagreement,0,No match,0,No stories about accepting opposing group decisions
+313,Handling uncooperative teammates,1,OLAF Scope,5,Won over resistant stakeholders through demonstrated value
+313,Handling uncooperative teammates,2,PNC Canada risk review,4,Gained cooperation through individual meetings after initial resistance
+314,Helping team member develop career,1,Global Pay STP rates,5,Mentored analyst into product management role with clear progression
+315,Investing in employee development,1,Global Pay STP rates,5,"Invested time mentoring analyst, resulting in successful role transition"
+316,Providing feedback to develop strengths,1,Global Pay STP rates,4,Provided ongoing feedback to help analyst grow into product role
+317,Providing coaching for team member,1,Global Pay STP rates,5,Coached analyst through transition to product management
+318,Hiring complementary skills and coaching,0,No match,0,No stories about hiring decisions or coaching for personal weaknesses
+319,Helping remote team member develop,0,No match,0,No stories specifically about developing remote team members
+320,Helping struggling person get promoted,1,Global Pay STP rates,4,Helped analyst achieve career growth into product management role
+321,Most challenging talent review and promotion process,0,No match,0,No stories about conducting talent reviews or promotion processes
+322,Constructing team to accomplish goal,1,OLAF Scope,3,Assembled cross-functional team to transform onboarding process
+323,Handling low performing individual,0,No match,0,No stories about managing low performers
+324,Best hire decision of your career,0,No match,0,No stories about making hiring decisions
+325,Actively coaching or mentoring somebody,1,Global Pay STP rates,5,Made conscious decision to mentor analyst into product role
+326,Helping remote team member develop,0,No match,0,No stories specifically about developing remote employees
+327,Providing feedback to leverage strengths,1,Global Pay STP rates,4,Provided ongoing feedback to develop analyst's product management abilities
+328,Hiring to fill skill gaps,0,No match,0,No stories about hiring for complementary skills
+329,Someone promoted due to your coaching,1,Global Pay STP rates,5,Analyst successfully transitioned to product management through mentoring
+330,Management style,1,Global Pay STP rates,3,Shows mentoring and development approach through concrete example
+330,Management style,2,Global Pay Roles,3,Demonstrates adaptability and focus on developing others
+331,Why would anyone want to work for you,1,Global Pay STP rates,4,Shows commitment to developing team members and creating opportunities
+331,Why would anyone want to work for you,2,Global Pay Roles,3,Demonstrates adaptability and willingness to take on challenges
+332,Approach to managing reports,1,Global Pay STP rates,4,Shows proactive mentoring and development approach
+333,Are you a manager or leader,1,Global Pay Roles,4,Shows leadership through taking on critical challenges and developing others
+334,Responsibility for team development,1,Global Pay STP rates,5,Demonstrates taking initiative in developing team members' careers
+334,Responsibility for team development,2,Global Pay Roles,3,Shows creating opportunities for team growth
+335,Previous hiring experiences,0,No match,0,No stories about hiring experiences
+336,What you look for in hiring,0,No match,0,No stories discussing hiring criteria
+337,Attitude vs aptitude importance,0,No match,0,No stories comparing attitude and aptitude
+338,Best hire of your career,0,No match,0,No stories about making hiring decisions
+339,Biggest hiring mistake,0,No match,0,No stories about hiring mistakes
+340,Handling borderline candidate,0,No match,0,No stories about candidate evaluation decisions
+341,Constructing a team with various factors,1,OLAF Scope,4,Assembled diverse cross-functional team for onboarding transformation
+342,Evaluating subordinate productivity,0,No match,0,No stories about evaluating employee performance
+343,Handling performance reviews,0,No match,0,No stories about conducting performance reviews
+344,Difficult performance review,0,No match,0,No stories about challenging reviews
+345,Handling underperforming subordinate,0,No match,0,No stories about managing underperformance
+346,Managing consistently marginal performer,0,No match,0,No stories about handling marginal performance
+347,Taking disciplinary action,0,No match,0,No stories about disciplinary situations
+348,Handling constructive criticism,1,Global Pay STP rates,4,Provided constructive guidance to help analyst develop
+349,Creating specific development plan,1,Global Pay STP rates,5,Created and executed plan to develop analyst into product manager
+349,Creating specific development plan,2,Global Pay Roles,3,Developed plan to transition work to team members
+350,Actively coaching or mentoring,1,Global Pay STP rates,5,Proactively mentored analyst into product management role
+350,Actively coaching or mentoring,2,Global Pay Roles,3,Mentored team members to take over responsibilities
+351,Manager success measured by team promotability,1,Global Pay STP rates,4,Demonstrates success through team member's career growth
+352,Managing top performers and giving feedback,0,No match,0,No stories specifically about managing top performers
+353,Challenging talent review/promotion process,0,No match,0,No stories about conducting talent reviews
+354,Providing extra help to team member,1,Global Pay STP rates,5,Provided extensive support to help analyst transition careers
+355,Improving subordinate skills,1,Global Pay STP rates,5,Developed analyst's product management capabilities
+355,Improving subordinate skills,2,Global Pay Roles,3,Helped team members grow into new responsibilities
+356,Managing team with different backgrounds/levels,1,OLAF Scope,4,Led diverse cross-functional team across multiple areas
+357,Ensuring team diversity,0,No match,0,No stories specifically addressing team diversity
+358,Preferred team composition,0,No match,0,No stories discussing team composition preferences
+359,Getting high production from subordinates,1,PNC Trade Finance,4,Led team to 200% growth through system improvements
+359,Getting high production from subordinates,2,OLAF Scope,3,Achieved significant improvements through team leadership
+360,Successfully empowering others,1,Global Pay STP rates,5,Empowered analyst to take over product management duties
+360,Successfully empowering others,2,Global Pay Roles,4,Enabled team members to take on new responsibilities
+361,It can be difficult to set goals for a team that are challenging yet achievable. Tell me about a time when you hit the right balance.,1,OLAF Scope,5,"Successfully set ambitious goal of reducing onboarding time by 75% while maintaining compliance, achieving it through clear milestones"
+362,Describe a time when you had to decide whether or not to award or ask for additional resources. What criteria did you use for making the call?,1,Global Pay STP rates,4,"Made tough decision not to request additional headcount despite heavy workload, prioritizing speed over comfort"
+363,Give an example of a time when you challenged your team to come up with a more efficient solution or process.,1,OLAF Innovation,5,"Led team to question every requirement and process, resulting in 25% reduction in questions and 75% faster onboarding"
+363,Give an example of a time when you challenged your team to come up with a more efficient solution or process.,2,PNC Trade Finance,4,"Challenged team to improve collaboration through custom CRM, leading to 166% revenue growth"
+364,Tell me about a time when you encouraged a team member or organization to take a big risk.,1,PNC Trade Finance,5,Convinced organization to take unconventional risk of letting product manager build custom CRM system
+364,Tell me about a time when you encouraged a team member or organization to take a big risk.,2,Statements Hub,4,Encouraged organization to think bigger by proposing company-wide solution instead of simple API implementation
+365,Tell me about a time when you established a vision for a team when there wasn't one.,1,GBAC Vision,5,Created comprehensive vision for automating banking processes when team only had tactical goals
+365,Tell me about a time when you established a vision for a team when there wasn't one.,2,Statements Hub,4,Transformed simple API request into strategic vision for company-wide statements hub
+366,Tell me about a time when you uncovered a significant problem in your team.,1,PNC Trade Finance,5,Discovered fundamental visibility and collaboration issues behind marketing project
+366,Tell me about a time when you uncovered a significant problem in your team.,2,OLAF Innovation,4,Uncovered that ownership structure capture was biggest source of friction in onboarding
+367,Tell me about a time when you enabled your team/a team member to implement a significant change or improvement.,1,Global Pay STP rates,5,Mentored business analyst into product management role while improving STP rates
+367,Tell me about a time when you enabled your team/a team member to implement a significant change or improvement.,2,OLAF Scope,4,Enabled team to achieve transformative improvements in onboarding process
+368,What is your experience with hiring people?,0,No match,0,No stories specifically discuss hiring experience
+369,How do you ensure you hire the best people?,0,No match,0,No stories specifically discuss hiring practices
+370,Give me an example of one of the best hires of your career. How did this person grow throughout their career?,0,No match,0,No stories specifically discuss hiring outcomes
+371,How do you help your employees grow?,1,Global Pay STP rates,4,Demonstrated employee development by mentoring analyst into product management role
+372,Tell me how you help your team members develop their careers. Can you give me examples of specific people you invested in?,1,Global Pay STP rates,5,Specific example of mentoring business analyst into product management career path
+373,Give me an example of a time you provided feedback to develop and leverage the strengths of someone on your team.,1,Global Pay STP rates,4,"Recognized analyst's potential, provided opportunities and mentoring to develop product management skills"
+374,How do you manage your top performers differently?,0,No match,0,No stories specifically discuss managing top performers
+375,Give me an example of someone who was promoted one or two levels up in the organization due to your coaching efforts.,1,Global Pay STP rates,4,Helped analyst transition from business analyst to junior product manager role
+376,"What is the composition of your current team, and how is your team organized?",0,No match,0,No stories discuss current team composition and organization
+377,How have you been successful at empowering either a person or a group to accomplish a task?,1,OLAF Scope,5,Empowered cross-functional team to achieve transformative improvements in onboarding process
+377,How have you been successful at empowering either a person or a group to accomplish a task?,2,Global Pay STP rates,4,Empowered analyst to take ownership of STP analysis for new countries
+378,Describe a time when you refused to compromise your standards around quality/customer service. What was the result?,1,Global Pay Research,5,"Pushed back against manager's suggestion to skip thorough research, found creative compromise instead"
+378,Describe a time when you refused to compromise your standards around quality/customer service. What was the result?,2,GBAC Vision,4,Maintained high standards by expanding analysis when initial proposal was challenged
+379,Tell me about a time when you were unsatisfied with the way things were in your team or organization. What did you do to change it?,1,PNC Trade Finance,5,Transformed underperforming team by identifying and solving core visibility issues
+379,Tell me about a time when you were unsatisfied with the way things were in your team or organization. What did you do to change it?,2,Statements Hub,4,Transformed simple API request into comprehensive company-wide strategy
+380,Tell me about a time when you worked to improve something that was already getting good feedback.,1,OLAF Scope,4,Expanded scope beyond initial requirements to achieve transformative improvements despite stakeholder satisfaction with smaller changes
+381,Tell me about a time when you had to make a decision between standards and delivery. What tradeoffs did you make?,1,Ripple pilot,5,Made calculated tradeoffs between speed and thoroughness in partner selection to meet urgent timeline
+381,Tell me about a time when you had to make a decision between standards and delivery. What tradeoffs did you make?,2,Global Pay Research,4,Balanced quality research needs with delivery pressure through two-stage approach
+382,Give me an example of a goal you've had where you wish you had done better.,1,PNC Canada risk review,5,Details specific failure in risk committee presentation and lessons learned
+383,Describe the most significant continuous improvement project that you led.,1,Global Pay Roadmap,5,"Led multi-year transformation of platform affecting 25,000 customers, with comprehensive research and improvements"
+383,Describe the most significant continuous improvement project that you led.,2,OLAF Innovation,4,Led complete transformation of onboarding process reducing time by 75%
+384,Tell me about a time when you used feedback about your team to drive a change.,1,OLAF Innovation,5,Used customer feedback about onboarding pain points to drive major process improvements
+385,Tell me about a time when you've been discontented with the accepted norm. What did you do to change it?,1,OLAF Scope,5,"Challenged accepted norm of limited improvements, pushed for comprehensive transformation"
+385,Tell me about a time when you've been discontented with the accepted norm. What did you do to change it?,2,Statements Hub,4,Rejected standard API implementation to propose company-wide solution
+386,Tell me about a time you wouldn't give up on achieving a great result when peers felt something was acceptable.,1,OLAF Scope,5,Pushed for transformative improvements when stakeholders were satisfied with superficial changes
+387,What measures have you personally put in place to drive continuous improvement?,1,Global Pay Roadmap,4,Established data-driven approach to roadmap development that became organizational standard
+388,Describe a big ongoing continuous improvement project that you've driven.,1,Global Pay Roadmap,5,Led comprehensive platform transformation with ongoing improvements across multiple areas
+388,Describe a big ongoing continuous improvement project that you've driven.,2,GBAC Vision,4,Developed comprehensive vision for automating banking processes
+389,"Describe a situation that when you looked back on it, you wished you'd done better.",1,PNC Canada risk review,5,Detailed specific mistakes in stakeholder management and lessons learned
+390,Tell me about a time when customers were happy with a product but you decided to still improve it.,1,OLAF Scope,5,Pushed for comprehensive improvements despite stakeholders being satisfied with minor updates
+390,Tell me about a time when customers were happy with a product but you decided to still improve it.,2,Statements Hub,4,Proposed strategic improvement when simple API implementation would have satisfied initial request
+391,Give me an example of when you investigated a core process to ensure it was still the right solution.,1,OLAF Innovation,5,Deep investigation of ownership structure process revealed better solution for different customer types
+391,Give me an example of when you investigated a core process to ensure it was still the right solution.,2,Global Pay STP rates,4,Investigated payment processing rules to identify unnecessary steps and improve efficiency
+392,Can you describe a situation where you had to balance delivering high-quality work with staying within constraints?,1,Ripple pilot,5,Balanced quality requirements with aggressive timeline constraints in blockchain implementation
+392,Can you describe a situation where you had to balance delivering high-quality work with staying within constraints?,2,Global Pay Research,4,Found creative solution to balance thorough research needs with time constraints
+393,Tell me a time your customer was demanding high standards and you couldn't give them what they asked for.,0,No match,0,No stories specifically discuss inability to meet customer demands
+394,Tell me about a time when you've been unsatisfied with the status quo.,1,PNC Trade Finance,5,Identified and addressed fundamental issues beyond original marketing assignment
+394,Tell me about a time when you've been unsatisfied with the status quo.,2,Statements Hub,4,Transformed tactical API request into strategic company-wide solution
+395,Tell me about a time you wouldn't compromise on achieving a great outcome.,1,Global Pay Research,5,"Refused to compromise on research quality despite pressure, found creative solution"
+396,What measures have you put in place to ensure performance improvement targets are achieved?,1,Global Pay Roadmap,4,Established comprehensive data-driven approach to measure and track improvements
+397,Describe the most significant continuous improvement project that you've led.,1,Global Pay Roadmap,5,"Led multi-year platform transformation affecting 25,000 customers"
+397,Describe the most significant continuous improvement project that you've led.,2,OLAF Innovation,4,Led transformation of onboarding process reducing time by 75%
+398,Give me an example of a goal where you wish you had done better.,1,PNC Canada risk review,5,Details specific failure in risk committee presentation and lessons learned
+399,Give an example where you refused to compromise your standards.,1,Global Pay Research,5,Refused to compromise on research quality despite management pressure
+399,Give an example where you refused to compromise your standards.,2,GBAC Vision,4,Maintained high standards by expanding analysis when initial proposal was challenged
+400,What motivates you?,1,The 2023 sabbatical,5,Shows clear motivation for continuous learning and staying ahead of technology trends
+400,What motivates you?,2,About me,4,Demonstrates consistent motivation to learn and keep technical skills current
+401,Describe a time where you were unhappy with a teammate's output. What did you do about it?,0,No match,0,No stories discuss addressing issues with teammate's output
+402,Tell me about a piece of direct feedback you recently gave to a colleague.,0,No match,0,No stories specifically discuss giving direct feedback
+403,Tell me about a time when you couldn't meet your own expectations on a project.,1,PNC Canada risk review,5,Details falling short of own expectations in risk committee presentation
+404,Tell me about a time you weren't happy with your own progress.,1,PNC Canada risk review,5,Describes dissatisfaction with initial stakeholder management approach
+405,"You performed an analysis, but your client thinks the result is not right. What will you do?",1,PNC Canada risk review,4,Shows how he addressed stakeholders' concerns about analysis through detailed follow-up
+406,Tell me about a time when you faced an ethical dilemma.,0,No match,0,No stories discuss ethical dilemmas
+407,Give me an example of when you could have stopped working but persisted.,1,GBAC Vision,5,"Persisted with vision development despite initial rejection, expanding analysis to gain support"
+407,Give me an example of when you could have stopped working but persisted.,2,PNC Canada risk review,4,Persisted after difficult committee meeting by addressing every concern individually
+408,How do you measure quality in a product?,1,Global Pay Roadmap,4,Demonstrates comprehensive approach to measuring product quality through data and research
+409,What was your toughest decision in the last 6 months?,0,No match,0,Stories don't specify timing of decisions within last 6 months
+410,Describe a long-term project you managed. How did you keep everything moving?,1,Global Pay Roadmap,5,Managed multi-year platform transformation with multiple workstreams
+410,Describe a long-term project you managed. How did you keep everything moving?,2,Ripple pilot,4,Managed complex multi-partner project through detailed coordination and planning
+410,Describe a long-term project you managed. How did you keep everything moving?,3,OLAF Scope,4,Managed comprehensive transformation of onboarding process across multiple stakeholders
+411,Tell me about a time when you have been unsatisfied with the status quo.,1,PNC Trade Finance,5,Identified and addressed fundamental problems beyond surface-level marketing request
+411,Tell me about a time when you have been unsatisfied with the status quo.,2,OLAF Scope,4,Challenged accepted norm of limited improvements to achieve transformation
+412,Tell me about a time when you were dissatisfied with the quality of something at work.,1,Statements Hub,5,"Dissatisfied with simple API approach, developed comprehensive solution"
+412,Tell me about a time when you were dissatisfied with the quality of something at work.,2,OLAF Scope,4,Dissatisfied with limited scope of improvements planned for onboarding
+413,When you refused to compromise around quality or customer service.,1,Global Pay Research,5,Refused to compromise on research quality despite management pressure
+413,When you refused to compromise around quality or customer service.,2,GBAC Vision,4,Maintained high standards by expanding analysis when challenged
+414,Tell me a time your customer was demanding high standards and you couldn't meet them.,0,No match,0,No stories discuss inability to meet customer demands
+415,What measures have you put in place to ensure performance improvement?,1,Global Pay Roadmap,5,Established data-driven approach to measure and track improvements
+415,What measures have you put in place to ensure performance improvement?,2,Global Pay STP rates,4,Created framework for measuring and improving STP rates
+416,Describe the most significant continuous improvement project you've led.,1,Global Pay Roadmap,5,"Led multi-year platform transformation affecting 25,000 customers"
+416,Describe the most significant continuous improvement project you've led.,2,OLAF Innovation,4,Led transformation of onboarding process reducing time by 75%
+417,Tell me about a time when you worked to improve something already getting good feedback.,1,OLAF Scope,5,Pushed for comprehensive improvements despite satisfaction with minor updates
+417,Tell me about a time when you worked to improve something already getting good feedback.,2,Statements Hub,4,Proposed strategic improvement when simple solution would have sufficed
+418,Describe a time where you were unhappy with a teammate's output.,0,No match,0,No stories discuss dissatisfaction with teammate's output
+419,Tell me about a piece of direct feedback you recently gave.,0,No match,0,No stories specifically discuss giving recent feedback
+420,Tell me about a time when you couldn't meet your own expectations.,1,PNC Canada risk review,5,Details falling short of expectations in risk committee presentation
+421,Your client thinks your analysis result is wrong. What will you do?,1,PNC Canada risk review,5,Shows detailed approach to addressing stakeholders' concerns about analysis
+422,Describe a long-term project you managed. How did you keep it moving?,1,Global Pay Roadmap,5,Managed multi-year platform transformation through multiple phases
+422,Describe a long-term project you managed. How did you keep it moving?,2,Ripple pilot,4,Managed complex project through detailed coordination across time zones
+423,Tell me about a time you wouldn't compromise on achieving a great outcome when others felt something was already good enough.,1,OLAF Scope,5,Pushed for transformative improvements when stakeholders were satisfied with minor changes
+424,Give me an example of a complex problem you solved with a simple solution.,1,OLAF Innovation,5,Solved complex ownership structure problem with simple document upload solution
+425,Describe the most innovative thing you've done and why you thought it was innovative.,1,PNC Trade Finance,5,Created innovative CRM solution that lasted 15 years despite being intended as temporary
+425,Describe the most innovative thing you've done and why you thought it was innovative.,2,OLAF Innovation,4,Developed innovative approach to customer ownership documentation
+426,Tell me about a time when you were able to make something simpler for customers.,1,OLAF Innovation,5,Simplified complex ownership documentation process for different customer types
+426,Tell me about a time when you were able to make something simpler for customers.,2,PNC Trade Finance,4,Simplified collaboration and visibility through custom CRM
+427,Describe a time when you influenced and drove new thinking and innovation out of your team.,1,OLAF Innovation,5,Led team to question every requirement and find innovative solutions
+427,Describe a time when you influenced and drove new thinking and innovation out of your team.,2,Statements Hub,4,Drove team to think beyond simple API implementation
+428,Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address.,1,PNC Trade Finance,5,Solved collaboration problems with unconventional approach of PM building custom CRM
+428,Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address.,2,OLAF Innovation,4,Developed unconventional approach to ownership documentation
+429,Tell me about a novel idea you had or decision you made that had a big impact on your business.,1,PNC Trade Finance,5,Custom CRM solution led to 166% revenue growth and lasting impact
+429,Tell me about a novel idea you had or decision you made that had a big impact on your business.,2,Statements Hub,4,Proposed novel company-wide solution instead of simple API implementation
+430,Tell me about a time you removed complexity for customers.,1,OLAF Innovation,5,Removed complexity from ownership documentation process for different customer types
+430,Tell me about a time you removed complexity for customers.,2,PNC Trade Finance,4,Simplified team collaboration and visibility through custom CRM
+431,Walk me through an example when you solved a complicated problem with a simple solution.,1,OLAF Innovation,5,Solved complex ownership verification with simple document upload approach
+432,Tell me about a time when you found it difficult to deliver an imaginative idea you had.,1,GBAC Vision,5,"Faced challenges delivering ambitious automation vision, adapted approach to build support"
+433,Tell me about a time you had a big impact on your business by thinking really differently.,1,PNC Trade Finance,5,Unconventional PM-built CRM led to 166% revenue growth and lasting impact
+433,Tell me about a time you had a big impact on your business by thinking really differently.,2,OLAF Innovation,4,Unconventional approach to ownership documentation transformed onboarding
+434,Tell me about the most innovative project you've done.,1,PNC Trade Finance,5,Created innovative custom CRM solution that lasted 15 years
+434,Tell me about the most innovative project you've done.,2,Ripple pilot,4,Led first blockchain-based payment pilot among major card networks
+435,Tell me about a time when you were faced with a difficult problem where the normal approach was not going to work.,1,OLAF Innovation,5,"Standard ownership documentation process wasn't working, created innovative segmented approach"
+435,Tell me about a time when you were faced with a difficult problem where the normal approach was not going to work.,2,PNC Trade Finance,4,"Traditional enterprise CRM wouldn't work, built custom solution"
+436,Tell me about a time you chose to re-purpose a solution from another area rather than design your own solution.,0,No match,0,No stories discuss re-purposing existing solutions
+437,Tell me about a time when you invented something.,1,PNC Trade Finance,5,Invented custom CRM system that transformed team performance
+437,Tell me about a time when you invented something.,2,Statements Hub,4,Created novel company-wide statements hub concept
+438,What improvements have you made at your current company?,1,Global Pay Roadmap,5,"Led comprehensive platform transformation affecting 25,000 customers"
+438,What improvements have you made at your current company?,2,OLAF Innovation,4,Transformed onboarding process reducing time by 75%
+439,Tell me about a time you were able to make something simpler for customers.,1,OLAF Innovation,5,Simplified complex ownership documentation process for different customer types
+439,Tell me about a time you were able to make something simpler for customers.,2,PNC Trade Finance,4,Simplified collaboration through custom CRM system
+440,Tell me about a time when you gave a simple solution to a complex problem.,1,OLAF Innovation,5,Created simple document upload solution for complex ownership verification
+440,Tell me about a time when you gave a simple solution to a complex problem.,2,PNC Trade Finance,4,Solved complex collaboration issues with straightforward CRM solution
+441,Tell me about a creative idea you had that was difficult to implement.,1,GBAC Vision,5,Details challenges implementing ambitious automation vision and how he adapted
+442,Tell me about an out-of-the box idea you had or decision you made that had a big impact.,1,PNC Trade Finance,5,Unconventional decision to build CRM as PM led to 166% revenue growth
+442,Tell me about an out-of-the box idea you had or decision you made that had a big impact.,2,Statements Hub,4,Transformed tactical API request into strategic company-wide solution
+443,Tell me about a time you solved a problem.,1,OLAF Innovation,5,Solved complex onboarding problems through innovative process redesign
+443,Tell me about a time you solved a problem.,2,PNC Trade Finance,4,Solved collaboration issues through custom CRM
+444,Describe a challenging problem or situation in which the usual approach was not going to work.,1,OLAF Innovation,5,"Standard ownership process wasn't working, created innovative segmented approach"
+444,Describe a challenging problem or situation in which the usual approach was not going to work.,2,PNC Trade Finance,4,"Traditional enterprise CRM wouldn't work, built custom solution"
+445,"How did you change the direction or view of a specific function or department, helping them embrace a new way of thinking?",1,OLAF Scope,5,Led team to embrace transformative approach to onboarding improvements
+445,"How did you change the direction or view of a specific function or department, helping them embrace a new way of thinking?",2,Statements Hub,4,Changed organization's view from tactical API to strategic solution
+446,Tell me about a time you had to think outside the box to close a sale or sell your product.,0,No match,0,No stories specifically discuss sales situations
+447,What is the most innovative project you've worked on?,1,PNC Trade Finance,5,Created innovative CRM solution with lasting 15-year impact
+447,What is the most innovative project you've worked on?,2,Ripple pilot,4,Led first blockchain-based payment pilot among major networks
+448,Please walk me through a different scenario of a process you invented or improved.,1,OLAF Innovation,5,Details invention of new segmented approach to ownership documentation
+448,Please walk me through a different scenario of a process you invented or improved.,2,Global Pay STP rates,4,Improved straight-through processing rates through process analysis
+449,What's the most innovative new idea that you have implemented?,1,PNC Trade Finance,5,Implemented innovative custom CRM that transformed team performance
+449,What's the most innovative new idea that you have implemented?,2,OLAF Innovation,4,Implemented innovative approach to ownership documentation
+450,Tell me about a time you were able to make something significantly simpler for customers.,1,OLAF Innovation,5,Significantly simplified ownership documentation process for customers
+450,Tell me about a time you were able to make something significantly simpler for customers.,2,PNC Trade Finance,4,Simplified collaboration and visibility through custom CRM
+451,What drove you to implement this change?,1,PNC Trade Finance,5,Driven by clear visibility of collaboration problems beyond surface marketing issues
+451,What drove you to implement this change?,2,OLAF Innovation,4,Driven by deep understanding of customer pain points in onboarding
+452,Example of a time when you proposed a novel approach to a problem,1,PNC Trade Finance,5,Proposed unconventional solution of PM building custom CRM
+452,Example of a time when you proposed a novel approach to a problem,2,OLAF Innovation,4,Proposed innovative segmented approach to ownership documentation
+453,Tell me about a time when you realized you needed a deeper level of subject matter expertise to do your job well.,1,The 2023 sabbatical,5,Recognized need to deeply understand AI/ML to lead future product development
+454,Tell me about a time when you took on work outside of your comfort area.,1,Global Pay Roles,5,Repeatedly took on new challenging roles outside comfort zone
+454,Tell me about a time when you took on work outside of your comfort area.,2,Global Pay STP rates,4,Moved from preferred UX work to technical STP analysis
+455,Tell me about a time when you didn't know what to do next or how to solve a challenging problem.,1,PNC Canada risk review,5,Details how he recovered and learned from failed risk committee presentation
+456,Give me an example of something that you've worked on to improve your overall work effectiveness.,1,The 2014 sabbatical,5,Took sabbatical to learn about fintech innovations and improve effectiveness
+456,Give me an example of something that you've worked on to improve your overall work effectiveness.,2,The 2023 sabbatical,5,Invested in AI/ML education to enhance product management capabilities
+457,Give me an example of a time when you explored a new or unexpected area of an existing space.,1,Statements Hub,5,Explored beyond simple API implementation to discover company-wide opportunity
+458,Describe a time when someone on your team challenged you to think differently about a problem.,0,No match,0,No stories discuss being challenged by team members to think differently
+459,Tell me about a time when you used external trends to improve your own company's products or services.,1,The 2014 sabbatical,5,Applied European fintech innovations to improve American Express products
+460,"Tell me about a time when you explored an existing process, system or solution outside of your normal scope.",1,Statements Hub,5,Explored bank statement processes across entire company beyond initial scope
+460,"Tell me about a time when you explored an existing process, system or solution outside of your normal scope.",2,GBAC Vision,4,Investigated banking processes across organization to develop automation strategy
+461,"Outside of your formal education and training, can you share an example of something you taught yourself?",1,The 2023 sabbatical,5,Self-taught AI/ML through projects and certifications
+461,"Outside of your formal education and training, can you share an example of something you taught yourself?",2,PNC Trade Finance,4,Self-taught programming skills used to build CRM
+462,Tell me about a project that required you to learn something new.,1,Ripple pilot,5,Had to learn blockchain technology to lead first payment pilot
+463,Describe a situation when you willingly stepped outside of your comfort zone.,1,Global Pay Roles,5,Repeatedly took on new challenging roles outside comfort zone
+463,Describe a situation when you willingly stepped outside of your comfort zone.,2,Global Pay STP rates,4,Left preferred UX role for technical STP analysis
+464,Tell me about a time when you didn't know how or what to do and you had to puzzle it out for yourself?,1,PNC Canada risk review,5,Had to figure out how to recover from failed presentation through systematic approach
+465,Walk me though a situation when others were unwilling to move forward into the unknown but you were not.,1,PNC Trade Finance,5,Pushed forward with unconventional CRM solution when others were hesitant
+465,Walk me though a situation when others were unwilling to move forward into the unknown but you were not.,2,OLAF Scope,4,Led transformation when others preferred minor changes
+466,"How do you find the time to stay inspired, acquire new knowledge, and/or innovate in your work?",1,The 2023 sabbatical,5,Took sabbatical to deeply study AI/ML and stay current
+466,"How do you find the time to stay inspired, acquire new knowledge, and/or innovate in your work?",2,The 2014 sabbatical,4,Took sabbatical to learn about fintech innovations
+467,How do you keep up with industry trends and best practices?,1,The 2023 sabbatical,5,Proactively studies emerging technologies through sabbaticals
+467,How do you keep up with industry trends and best practices?,2,About me,4,Consistently prioritizes learning and technical skills
+468,What have you learned that has helped you in your job?,1,The 2014 sabbatical,5,Learning about European fintech helped improve American Express products
+468,What have you learned that has helped you in your job?,2,The 2023 sabbatical,4,Learning AI/ML to enhance product management capabilities
+469,What is the coolest thing you've learned on your own that has helped you better perform your job?,1,The 2023 sabbatical,5,Self-taught AI/ML to lead future product development
+470,Tell me about a time you learned something new from your peer or your direct report at work.,0,No match,0,No stories discuss learning from peers or direct reports
+471,Tell me about a time when you solved a problem through just superior knowledge or observation.,1,PNC Trade Finance,5,Used observation of underlying visibility issues to solve collaboration problems
+471,Tell me about a time when you solved a problem through just superior knowledge or observation.,2,OLAF Innovation,4,Used deep analysis to identify better approach to ownership documentation
+472,What is a recent book you've read and what did you learn from it?,0,No match,0,No stories discuss specific books read
+473,Tell me about a time you took on work outside of your comfort area and found it rewarding.,1,Global Pay Roles,5,Successfully took on multiple challenging new roles outside comfort zone
+473,Tell me about a time you took on work outside of your comfort area and found it rewarding.,2,Global Pay STP rates,4,Successfully tackled technical STP analysis despite preference for UX work
+474,Tell me about a time you found you needed a deeper level of subject matter expertise.,1,The 2023 sabbatical,5,Recognized need to deeply understand AI/ML for product development
+474,Tell me about a time you found you needed a deeper level of subject matter expertise.,2,The 2014 sabbatical,4,Sought deeper fintech expertise through sabbatical
+475,Tell me about a time you didn't know what to do next or how to solve a challenging problem.,1,PNC Canada risk review,5,Details recovery strategy after failed risk committee presentation
+476,Give me an example of when you challenged the notion that something had to be done a certain way.,1,OLAF Innovation,5,Challenged standard approach to ownership documentation with segmented solution
+476,Give me an example of when you challenged the notion that something had to be done a certain way.,2,PNC Trade Finance,4,Challenged notion that PMs couldn't build systems
+477,What are you working on to improve your overall effectiveness at work?,1,The 2023 sabbatical,5,Investing in AI/ML knowledge to enhance product management capabilities
+478,Tell me about a time when you realized that you might have lost that fresh perspective.,0,No match,0,No stories discuss losing fresh perspective
+479,What is an example of how you've connected the dots to come up with a counterintuitive solution?,1,OLAF Innovation,5,Connected customer types to documentation needs for counterintuitive solution
+479,What is an example of how you've connected the dots to come up with a counterintuitive solution?,2,Statements Hub,4,Connected company-wide needs to create unexpected strategic solution
+480,Tell me about a time you hired someone smarter than you.,0,No match,0,No stories discuss hiring decisions
+481,Tell me about a time when you challenged your team to push beyond existing standards.,1,OLAF Scope,5,"Led team to expand beyond superficial improvements, eliminating 25% of onboarding requirements"
+481,Tell me about a time when you challenged your team to push beyond existing standards.,2,Global Pay STP rates,4,Pushed team to deeply analyze and question every rule/requirement to achieve 90% STP rates
+482,Give me an example of when someone on your team challenged you to think differently about a problem.,0,No match,0,Stories show protagonist challenging others but not being challenged
+483,"How do you stay inspired, acquire new knowledge, or innovate in your work?",1,The 2023 sabbatical,5,Took initiative to study AI/ML through formal education and hands-on projects
+483,"How do you stay inspired, acquire new knowledge, or innovate in your work?",2,The 2014 sabbatical,5,Moved to London to study fintech innovations and emerging technologies
+484,How do you keep up with best practices?,1,About me,4,Shows pattern of continuous learning through certifications and research sabbaticals
+484,How do you keep up with best practices?,2,The Amazon experience,3,Learned Amazon's specific tools and mechanisms for product development
+485,How do you keep up with industry trends and what your competitors are doing?,1,The 2014 sabbatical,5,Studied UK market leadership in payments innovation and fintech trends
+485,How do you keep up with industry trends and what your competitors are doing?,2,Ripple pilot,4,Led initiative to beat competitors in blockchain adoption
+486,Tell me about a time you learned something new from your peer or direct report.,0,No match,0,Stories focus on teaching/mentoring others rather than learning from them
+487,Tell me about a time when you solved a problem through superior knowledge or observation.,1,PNC Trade Finance,5,Used technical knowledge to build custom CRM that transformed team performance
+487,Tell me about a time when you solved a problem through superior knowledge or observation.,2,Statements Hub,4,Used cross-org knowledge to propose company-wide solution
+488,Tell me about a time when you influenced a change by only asking questions.,1,Global Pay STP rates,5,"Led team to question every requirement by consistently asking ""why"""
+489,Tell me about a time you took on work outside of your comfort area.,1,Global Pay STP rates,5,Left preferred UX role to tackle critical but tedious STP analysis
+489,Tell me about a time you took on work outside of your comfort area.,2,Global Pay Roles,4,Adapted to multiple different roles based on program needs
+490,Tell me about a time you needed a deeper level of subject matter expertise.,1,The 2023 sabbatical,5,Recognized need for AI/ML expertise and pursued comprehensive education
+490,Tell me about a time you needed a deeper level of subject matter expertise.,2,The 2014 sabbatical,4,Sought deeper understanding of fintech innovation through immersion
+491,Tell me about a time when you realized you might have lost that fresh perspective.,1,PNC Canada risk review,4,Realized own expertise led to using jargon that confused stakeholders
+492,Give me an example of when someone on your team challenged you to think differently.,0,No match,0,Stories show protagonist challenging others but not being challenged
+493,What's the coolest thing that you've learned on your own that you've then been able to apply in your job?,1,PNC Trade Finance,5,Self-taught programming led to creating impactful 15-year CRM solution
+493,What's the coolest thing that you've learned on your own that you've then been able to apply in your job?,2,Ripple pilot,4,Applied blockchain knowledge from sabbatical to lead first major payment network pilot
+494,Tell me about a time where someone openly challenged you.,1,GBAC Vision,5,"Executive challenged vision as too ambitious, leading to revised approach"
+494,Tell me about a time where someone openly challenged you.,2,Global Pay Research,4,"Manager challenged proposed research approach, leading to compromise solution"
+495,Give an example of a tough or critical piece of feedback you received.,1,PNC Canada risk review,5,Received brutal feedback about presentation approach to risk committee
+496,How do you find the time to stay inspired and acquire new knowledge?,1,The 2023 sabbatical,5,Took career break to study AI/ML through formal education and projects
+496,How do you find the time to stay inspired and acquire new knowledge?,2,The 2014 sabbatical,5,Took year-long sabbatical to study fintech innovations in London
+497,What is the coolest thing you've learned on your own?,1,The 2023 sabbatical,5,Self-directed learning of AI/ML through multiple programs and hands-on projects
+498,Tell me about a time when you solved a problem through superior knowledge.,1,PNC Trade Finance,5,Applied programming knowledge to create transformative CRM system
+498,Tell me about a time when you solved a problem through superior knowledge.,2,OLAF Innovation,4,Used deep process knowledge to redesign onboarding system
+499,Tell me about a time you didn't know what to do next or how to solve a problem.,1,Ripple pilot,4,Navigated uncertainty of new blockchain technology with rapid discovery process
+499,Tell me about a time you didn't know what to do next or how to solve a problem.,2,PNC Canada risk review,4,Had to develop new approach after initial risk committee presentation failed
+500,Tell me about a time when you might have lost that fresh perspective.,1,PNC Canada risk review,4,Expert knowledge led to ineffective communication with risk committee
+501,Give me an example of when someone challenged you to think differently.,1,GBAC Vision,5,"Executive challenged vision as too ambitious, leading to new approach with more analysis and visualization"
+501,Give me an example of when someone challenged you to think differently.,2,Global Pay Research,4,Manager's challenge led to creative two-stage research compromise
+501,Give me an example of when someone challenged you to think differently.,3,PNC Canada risk review,4,Risk committee's challenge led to complete rethinking of presentation approach
+502,Tell me about a time when you took on something significant outside your area of responsibility.,1,PNC Trade Finance,5,Went beyond marketing assignment to build custom CRM system
+502,Tell me about a time when you took on something significant outside your area of responsibility.,2,Statements Hub,4,Transformed API request into company-wide connectivity strategy
+503,Describe a time when you didn't think you were going to meet a commitment you promised.,1,Ripple pilot,4,Identified timeline risk and took on PM role to meet strategic deadline
+504,Give me an example of an initiative you undertook because you saw that it could benefit the whole company.,1,Statements Hub,5,Identified and proposed company-wide solution when no team owned the problem
+504,Give me an example of an initiative you undertook because you saw that it could benefit the whole company.,2,GBAC Vision,4,Developed comprehensive solution for banking process automation
+505,Tell me about a time when you made a hard decision to sacrifice short term gain for something that would create long term value.,1,Global Pay Research,5,Chose comprehensive research over quick solution despite team pressure
+506,Describe a time when you had to transition a project you owned to a new owner.,1,Global Pay STP rates,5,Trained analyst to take over STP analysis as junior product manager
+506,Describe a time when you had to transition a project you owned to a new owner.,2,PNC Trade Finance,4,Successfully transitioned custom CRM to IT department
+507,Tell me about a time that you chose to get involved in a project that you had already transitioned to somebody else.,0,No match,0,No stories describe re-involvement after transition
+508,Tell me about a time when you saw a peer struggling and decided to step in and help.,1,Global Pay STP rates,4,Identified and mentored analyst showing product management potential
+509,Tell me about a time when you decided to accept a trade off of short term benefit in order to secure long term benefit?,1,Global Pay Research,5,Chose longer research timeline for better long-term product decisions
+509,Tell me about a time when you decided to accept a trade off of short term benefit in order to secure long term benefit?,2,GBAC Vision,4,Accepted longer timeline to build trust and support for vision
+510,Tell me about a time you missed a deadline.,1,Ripple pilot,3,Missed quarter deadline but still achieved strategic goal of beating competitors
+511,"Walk me through a situation where you supported a colleague to achieve something, when there was no obligation or benefit to you doing so.",1,Global Pay STP rates,5,Voluntarily mentored analyst to help them transition to product management role
+512,Give me an example of when you handed over a business critical project to a colleague.,1,Global Pay STP rates,5,Documented process and trained analyst to take over STP analysis work
+512,Give me an example of when you handed over a business critical project to a colleague.,2,PNC Trade Finance,4,Handed over custom CRM system to IT department for long-term maintenance
+513,Give me an example of a time when you revised a decision or a plan based on the consequences on other teams.,1,OLAF Innovation,4,Redesigned onboarding process considering impact on all stakeholder teams
+514,Describe a situation where you failed to deliver on something important to a customer or colleague.,1,PNC Canada risk review,5,Failed initial risk committee presentation but recovered through systematic follow-up
+515,Provide an example of when you personally demonstrated ownership.,1,PNC Trade Finance,5,Took initiative beyond assignment to build transformative CRM system
+515,Provide an example of when you personally demonstrated ownership.,2,Statements Hub,4,Transformed simple API request into comprehensive company-wide strategy
+516,Tell me about a time you went above and beyond.,1,PNC Trade Finance,5,Built custom CRM system despite it being outside normal PM role
+516,Tell me about a time you went above and beyond.,2,Global Pay STP rates,4,Took on additional critical role despite having UX responsibilities
+517,Describe a project or idea that was implemented primarily because of your efforts.,1,PNC Trade Finance,5,Personally conceived and built CRM system that lasted 15 years
+517,Describe a project or idea that was implemented primarily because of your efforts.,2,OLAF Scope,4,Drove expansion of scope to create transformative onboarding solution
+518,When did you work on a project where you were the driving factor?,1,OLAF Scope,5,Led initiative to expand scope and eliminate 25% of onboarding requirements
+518,When did you work on a project where you were the driving factor?,2,Ripple pilot,4,Drove first blockchain payment pilot among major networks
+519,Give me an example of a time when you didn't think you were going to meet the commitments you promised.,1,Ripple pilot,4,Identified timeline risk and took on PM role to meet strategic deadline
+520,Tell me about a time you had to make a short-term sacrifice in order to achieve a long-term goal.,1,Global Pay Research,5,Sacrificed immediate progress for comprehensive research to ensure better outcomes
+520,Tell me about a time you had to make a short-term sacrifice in order to achieve a long-term goal.,2,GBAC Vision,4,Accepted longer timeline to build trust and support for ambitious vision
+521,Tell me about a time when you had to leave a task unfinished.,1,GBAC Vision,4,Project put on hold due to company downturn despite significant progress
+522,Tell me about a time when you had to work on a project with unclear responsibilities.,1,Ripple pilot,5,Navigated complex project across multiple partners in different time zones
+523,Give an example of when you saw a peer struggling and decided to step in and help.,1,Global Pay STP rates,5,Identified analyst's potential and mentored them into product management
+524,When did you see a bigger opportunity than your manager?,1,PNC Trade Finance,5,Saw opportunity beyond marketing project to build transformative CRM
+524,When did you see a bigger opportunity than your manager?,2,Statements Hub,4,Transformed API request into company-wide strategy opportunity
+525,What steps do you take to ensure projects you complete get transitioned effectively to new owners?,1,Global Pay STP rates,5,Documented process and trained analyst for successful transition
+525,What steps do you take to ensure projects you complete get transitioned effectively to new owners?,2,PNC Trade Finance,4,Successfully transitioned custom CRM system to IT department
+526,How do you ensure your team stays connected to the company vision?,1,GBAC Vision,4,Aligned banking automation vision with broader company goals
+527,Tell me about an initiative you undertook because you saw that it could benefit the whole company.,1,Statements Hub,5,Created company-wide bank connectivity strategy when no team owned the problem
+527,Tell me about an initiative you undertook because you saw that it could benefit the whole company.,2,GBAC Vision,4,Developed comprehensive solution for banking process automation
+528,Give me two examples of when you did more than what was required in any job experience,1,PNC Trade Finance,5,Built custom CRM system beyond original marketing assignment
+528,Give me two examples of when you did more than what was required in any job experience,2,Global Pay STP rates,5,Took on additional critical role despite existing UX responsibilities
+529,Tell me about a time when you took on something significant outside your area of responsibility.,1,PNC Trade Finance,5,Went beyond marketing role to build custom CRM system
+529,Tell me about a time when you took on something significant outside your area of responsibility.,2,Statements Hub,4,Expanded simple API request into comprehensive strategy
+530,Describe a time you didn't think you were going to meet a commitment you promised?,1,Ripple pilot,4,Identified timeline risk and took on PM role to meet strategic deadline
+531,Tell me about a time you had to make a short-term sacrifice in order to achieve a longterm goal.,1,Global Pay Research,5,Chose longer research timeline over quick solution for better product decisions
+531,Tell me about a time you had to make a short-term sacrifice in order to achieve a longterm goal.,2,GBAC Vision,4,Accepted longer timeline to build proper support for vision
+532,Give an example of when you saw a peer struggling and decided to step in and help.,1,Global Pay STP rates,5,Identified and mentored analyst to help them transition into product role
+533,What was the situation and what actions did you take? What was the outcome?,1,Global Pay STP rates,5,"Mentored analyst through STP analysis, resulting in successful career transition"
+534,What steps do you take to ensure projects you complete get transitioned effectively to new owners?,1,Global Pay STP rates,5,Documented process and trained analyst for successful STP analysis transition
+534,What steps do you take to ensure projects you complete get transitioned effectively to new owners?,2,PNC Trade Finance,4,Successfully handed over custom CRM system to IT department
+535,Give an example where you chose to reengage on a project you had already transitioned to someone else.,0,No match,0,No stories describe re-engagement after transition
+536,How do you ensure your team stays connected to the company vision and the bigger picture?,1,GBAC Vision,4,Aligned banking automation initiative with broader company goals
+537,Give an example of when you felt a team or individual goal was in conflict with the company vision.,1,Global Pay Research,4,Resolved conflict between quick delivery and proper research needs
+538,Tell me a time when you helped build a more inclusive working environment.,0,No match,0,No stories specifically address improving workplace inclusivity
+539,Tell me about a time when you advocated for someone who had less influence or seniority than you.,1,Global Pay STP rates,4,Advocated for analyst's career development into product management
+540,Describe a time when you implemented a change at work aimed at improving the work experience.,1,OLAF Innovation,4,Redesigned onboarding process to improve experience for all stakeholders
+541,"Describe a time when you promoted diversity, equity, or inclusion in the workplace.",0,No match,0,No stories specifically address promoting workplace diversity
+542,Tell me about a time when you showed compassion toward someone during a stressful situation.,1,Global Pay STP rates,3,Showed understanding and support for analyst during career transition
+543,Tell me about a time when you supported or empowered someone else to achieve a goal.,1,Global Pay STP rates,5,Mentored analyst through transition to product management role
+544,Give me an example of a time when you organized an initiative to foster an enjoyable work environment.,0,No match,0,No stories describe initiatives focused on workplace enjoyment
+545,Tell me about a time when you noticed someone was being excluded or treated unfairly.,0,No match,0,No stories address addressing unfair treatment or exclusion
+546,Tell me about a time you created an environment where people felt comfortable speaking up.,1,OLAF Scope,3,Created environment where team felt comfortable questioning requirements
+547,Give me an example of when you worked to improve your team's work environment?,1,OLAF Innovation,3,Improved work processes to reduce friction for all stakeholders
+548,"Tell me about a time you influenced a change that fostered diversity, equity, and inclusion.",0,No match,0,No stories specifically address DEI initiatives
+549,Share an example when you helped make your workplace more inclusive.,0,No match,0,No stories specifically address workplace inclusivity
+550,Describe a time when you created an environment where your team could speak freely.,1,OLAF Scope,3,Created environment encouraging team to question existing processes
+551,Give me an example of a change you drove that improved your employment experience for colleagues?,1,OLAF Innovation,3,Improved onboarding process making work easier for multiple teams
+552,Share a time you showed empathy to someone during a difficult situation.,1,Global Pay STP rates,4,Recognized and supported analyst's career development aspirations
+553,Tell me about when you felt someone was treated unfairly.,0,No match,0,No stories describe witnessing or addressing unfair treatment
+554,Tell me about a time you advocated for someone less senior or networked.,1,Global Pay STP rates,5,Advocated for analyst's transition to product management role
+555,What routines have you established in your workplace to improve safety?,0,No match,0,No stories address workplace safety initiatives
+556,Describe a time you constructed a team.,1,OLAF Scope,3,Assembled cross-functional team for onboarding improvement project
+557,"How do you tell the difference between ""right"" and ""wrong"" as it applies to your job?",0,No match,0,No stories specifically address ethical decision-making framework
+558,How have you made your employees excited about coming to work?,0,No match,0,No stories focus on improving employee engagement or excitement
+559,Tell me about a time when you made the wrong assumptions about a direct report or peer.,1,PNC Canada risk review,3,Recognized wrong assumptions about risk committee's knowledge needs
+560,Tell me how you help your team members develop their careers.,1,Global Pay STP rates,5,Mentored analyst through career transition to product management
+560,Tell me how you help your team members develop their careers.,2,Global Pay STP rates,4,Created development opportunity by training analyst as product owner
+561,Give me an example of someone who was promoted due to your coaching efforts.,1,Global Pay STP rates,4,"Mentored business analyst into product management role, helping them transition to product owner position"
+562,Tell me about a time you worked on a project that had impact beyond your immediate client/customer/organization.,1,PNC Trade Finance,5,"Solution helped transform team into largest Exim Bank program user, winning US President's Award"
+562,Tell me about a time you worked on a project that had impact beyond your immediate client/customer/organization.,2,Statements Hub,4,Proposed company-wide strategy affecting multiple Amazon teams beyond Treasury
+563,Tell me about a time when you decided to change a decision because of unintended consequences for your customers.,1,OLAF Innovation,4,Changed onboarding approach after discovering existing process was causing customers to switch to paper applications
+564,Tell me about a time when you changed course because of the negative impact you were going to cause to a third-party.,0,No match,0,No stories explicitly describe changing course due to third-party impact
+565,Tell me a time when you thought carefully about social responsibility as a critical aspect of your decision making.,0,No match,0,No stories focus on social responsibility aspects
+566,"Tell me about a time when you considered everyone who was affected by your work, not just your direct customers or people within your organization.",1,OLAF Scope,4,"Considered impact across multiple stakeholders including sales, operations, legal, compliance while modernizing onboarding"
+567,Describe a time when you had to balance growth or perceived progress with environmental or societal impacts.,0,No match,0,No stories discuss environmental or societal impact balancing
+568,Tell me about a time where you realized a project would have unintended consequences in the future.,1,PNC Trade Finance,3,"Built ""temporary"" CRM system that unexpectedly became crucial for 15 years"
+569,Tell me about a time you left something better than how you found it.,1,PNC Trade Finance,5,Transformed underperforming team into award-winning one with revenue growth from $3M to $8M
+569,Tell me about a time you left something better than how you found it.,2,OLAF Scope,4,Reduced onboarding time 75% and eliminated 25% of questions
+570,Tell me about a time you influenced an organizational change to bring new social awareness and responsibility among the teams.,0,No match,0,No stories focus on social awareness or responsibility initiatives
+571,Walk me through an example of when you influenced change to increase social awareness and responsibility in teams.,0,No match,0,No stories focus on social awareness initiatives
+572,Describe a time when you seriously considered social responsibility before moving forward with a project or decision.,0,No match,0,No stories discuss social responsibility considerations
+573,Describe a scenario where your work impacted beyond the intended customer.,1,PNC Trade Finance,5,CRM system impact expanded beyond trade finance team to transform entire business unit
+573,Describe a scenario where your work impacted beyond the intended customer.,2,Statements Hub,4,Strategy impacted multiple teams across Amazon beyond initial Treasury scope
+574,"Tell me about a time when you considered all affected by your work, not just the customer or business and it resulted in a change in direction.",1,OLAF Scope,4,"Changed scope after considering impacts across multiple stakeholders (sales, operations, legal, compliance)"
+575,Describe a time when you balanced a key goal with environmental or societal impacts.,0,No match,0,No stories discuss environmental or societal impact balancing
+576,Tell me about a time you left something better than you found it.,1,PNC Trade Finance,5,Transformed underperforming team into award-winning one
+576,Tell me about a time you left something better than you found it.,2,OLAF Scope,4,Dramatically improved onboarding process efficiency and user experience
+577,Tell me about a time when you changed a plan due to negative consequences you hadn't considered.,1,OLAF Innovation,4,Revised onboarding approach after discovering unintended customer drop-offs
+578,Tell me about a time you had to evaluate a potential strategic partnership.,1,Ripple pilot,5,Led evaluation and selection of Ripple and Santander as strategic partners for blockchain initiative
+579,How have you developed and maintained a partner relationship?,1,Ripple pilot,4,Successfully managed relationships with Ripple and Santander through pilot implementation
+580,When did you have a difficult situation with a partner?,1,PNC Canada risk review,4,Navigated challenging situation with Canadian bank partner during risk review process
+581,When did you have to say no to a partner?,1,Statements Hub,4,Said no to bank partners' API proposal after determining it couldn't handle Amazon's volume
+582,Have you ever lost a partner?,0,No match,0,No stories describe losing a partnership
+583,When have you gone out of your way to help a partner?,1,PNC Canada risk review,3,Went extra mile to meet with each committee member to address concerns and translate requirements
+584,When have you done something to improve the process for your partner?,1,PNC Trade Finance,4,Built CRM system that improved collaboration between all parties including external partners
+585,Tell me about a time you worked with a partner to achieve scale that would have otherwise been impossible.,1,Ripple pilot,4,Partnered with Ripple and Santander to achieve first blockchain payment pilot among major networks
+586,"How do you promote and maintain social, ethical, and organizational norms in business activities?",0,No match,0,No stories focus on maintaining social or ethical norms
+587,Tell me about how you think about your work impacting the world.,0,No match,0,No stories discuss global impact philosophy
+588,Tell me about a time where you failed to anticipate the secondary effects of a project.,1,PNC Trade Finance,3,"Did not anticipate ""temporary"" CRM system would become critical for 15 years"
+589,Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus.,1,OLAF Scope,5,Expanded simple UI update into comprehensive process improvement reducing onboarding time by 75%
+589,Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus.,2,PNC Trade Finance,5,Transformed simple marketing project into complete CRM system that revolutionized team performance
+589,Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus.,3,Statements Hub,4,Turned API implementation request into company-wide connectivity strategy
+590,Give me an example of how you have changed the direction or view of a specific function/department and helped them embrace a new way of thinking.,1,OLAF Innovation,5,Changed department's view on process constraints by questioning assumptions about regulatory requirements
+590,Give me an example of how you have changed the direction or view of a specific function/department and helped them embrace a new way of thinking.,2,PNC Trade Finance,4,Changed team's approach to collaboration through innovative CRM system
+591,Give me an example of a time you proposed a novel approach to a problem.,1,PNC Trade Finance,5,Uniquely proposed building custom CRM as product manager - unprecedented approach at PNC
+591,Give me an example of a time you proposed a novel approach to a problem.,2,OLAF Innovation,5,Created innovative multi-path onboarding system based on customer complexity
+592,Tell me about a time when you drove adoption for your vision/ideas.,1,GBAC Vision,4,Adapted vision presentation to gain stakeholder support through visualization and phased approach
+592,Tell me about a time when you drove adoption for your vision/ideas.,2,Global Pay Roadmap,4,Vision became best practice for roadmap development across organization
+593,Give me an example of an idea or vision you had which was adopted by global stakeholders.,1,OLAF Innovation,5,Onboarding solution became new global standard rolled out to other markets
+594,Tell me about a time when you thought differently to improve a process that was working.,1,OLAF Innovation,4,Questioned assumptions about regulatory requirements to improve working but inefficient process
+594,Tell me about a time when you thought differently to improve a process that was working.,2,Statements Hub,4,Challenged existing bank connectivity methods despite them being functional
+595,Tell me about a time when you established a vision for a team/product/initiative when there wasn't one.,1,GBAC Vision,5,Created comprehensive vision for banking process automation where only tactical solutions existed
+595,Tell me about a time when you established a vision for a team/product/initiative when there wasn't one.,2,Statements Hub,4,Developed new company-wide vision for bank connectivity
+596,Tell me about a time when you developed a big vision or idea and had to work to get everyone onboard.,1,GBAC Vision,5,Created vision for banking automation and worked systematically to gain stakeholder support
+597,Tell me about a time when you took a risk in order to achieve a big impact.,1,PNC Trade Finance,5,"Took risk building custom CRM as product manager, leading to major business transformation"
+597,Tell me about a time when you took a risk in order to achieve a big impact.,2,Ripple pilot,4,Led risky first blockchain initiative with aggressive timeline
+598,Tell me about a time you took a big risk that didn't work out well.,1,PNC Canada risk review,5,Risk committee presentation failed due to communication approach
+599,Tell me about a time that you proposed a solution that was drastically different to any solution anyone had come up with before.,1,PNC Trade Finance,5,Proposed unprecedented solution of product manager building custom CRM
+599,Tell me about a time that you proposed a solution that was drastically different to any solution anyone had come up with before.,2,OLAF Innovation,5,Created novel multi-path onboarding system based on customer complexity
+600,Walk me though an example of a time you materially expanded on the scope or opportunity of a project or goal.,1,OLAF Scope,5,Expanded simple UI update into comprehensive process improvement
+600,Walk me though an example of a time you materially expanded on the scope or opportunity of a project or goal.,2,Statements Hub,4,Transformed API implementation into company-wide strategy
+601,Tell me about a time when you took a calculated risk in order to achieve a big professional goal.,1,PNC Trade Finance,5,Took calculated risk proposing to build CRM as product manager
+601,Tell me about a time when you took a calculated risk in order to achieve a big professional goal.,1,PNC Trade Finance,5,Took calculated risk proposing to build CRM as product manager
+601,Tell me about a time when you took a calculated risk in order to achieve a big professional goal.,2,Ripple pilot,4,Made rapid partner selection decisions to meet aggressive blockchain pilot timeline
+602,"Tell me about a time you took a big risk – what was the risk, how did you decide to do it?",1,PNC Trade Finance,5,Risked career proposing unprecedented product manager-built CRM system
+602,"Tell me about a time you took a big risk – what was the risk, how did you decide to do it?",2,Ripple pilot,4,Quick partner selection for first blockchain initiative
+603,Tell me about a time you took a big risk and it failed.,1,PNC Canada risk review,5,Failed risk committee presentation due to poor stakeholder communication
+604,Tell me about your proudest professional achievement.,1,PNC Trade Finance,5,Transformed team performance and created system used for 15 years
+604,Tell me about your proudest professional achievement.,2,OLAF Scope,4,Reduced onboarding time 75% and created new global standard
+605,Talk about a time when you went above and beyond expectations.,1,PNC Trade Finance,5,Went beyond marketing assignment to build transformative CRM system
+605,Talk about a time when you went above and beyond expectations.,2,OLAF Scope,4,Expanded simple UI update into comprehensive process improvement
+606,Tell me about a time when you went way beyond the scope of the project and delivered.,1,PNC Trade Finance,5,Transformed simple marketing project into complete CRM system
+606,Tell me about a time when you went way beyond the scope of the project and delivered.,2,OLAF Scope,5,Expanded UI update into full process transformation
+607,Give me an example of a radical approach to a big problem you proposed.,1,OLAF Innovation,5,Created unprecedented multi-path onboarding based on customer complexity
+607,Give me an example of a radical approach to a big problem you proposed.,2,PNC Trade Finance,5,Proposed product manager-built custom CRM system
+608,How do you drive adoption for your vision/ideas?,1,GBAC Vision,4,"Used visualization, phased approach, and systematic stakeholder engagement"
+608,How do you drive adoption for your vision/ideas?,2,Global Pay Roadmap,4,Built credibility through data-driven approach and research
+609,Tell me about time you were working on an initiative or goal and saw an opportunity to do something much bigger.,1,PNC Trade Finance,5,Expanded marketing project into transformative CRM system
+609,Tell me about time you were working on an initiative or goal and saw an opportunity to do something much bigger.,2,OLAF Scope,5,Transformed UI update into comprehensive process improvement
+610,Tell me about a time you looked at a key process that was working well and questioned whether it was still the right one.,1,OLAF Innovation,5,Challenged assumptions about regulatory requirements in existing process
+610,Tell me about a time you looked at a key process that was working well and questioned whether it was still the right one.,2,Statements Hub,4,Questioned established bank connectivity methods
+611,Tell me about a time you took a calculated risk in order to achieve a professional goal.,1,PNC Trade Finance,5,Risked career by proposing unprecedented product manager-built CRM
+611,Tell me about a time you took a calculated risk in order to achieve a professional goal.,2,Ripple pilot,4,"Made quick, high-stakes decisions on blockchain partner selection"
+612,Tell me about a time you went way beyond the scope of the project and delivered.,1,PNC Trade Finance,5,Transformed marketing project into complete CRM system
+612,Tell me about a time you went way beyond the scope of the project and delivered.,2,OLAF Scope,5,Expanded UI update into process transformation
+613,Give me an example of a radical approach to a problem you proposed.,1,OLAF Innovation,5,Created innovative multi-path onboarding system
+613,Give me an example of a radical approach to a problem you proposed.,2,PNC Trade Finance,5,Proposed unprecedented product manager-built CRM
+614,Tell me about a time you were working on an initiative or goal and saw an opportunity to do something much bigger than the initial focus.,1,PNC Trade Finance,5,Expanded marketing project into transformative CRM system
+614,Tell me about a time you were working on an initiative or goal and saw an opportunity to do something much bigger than the initial focus.,2,Statements Hub,4,Transformed API implementation into company-wide strategy
+615,Tell me about a time when very senior people adopted your vision across the organisation.,1,Global Pay Roadmap,5,Executive promoted roadmap approach as best practice across organization
+615,Tell me about a time when very senior people adopted your vision across the organisation.,2,OLAF Scope,4,Gained executive approval for innovative onboarding solution that became global standard
